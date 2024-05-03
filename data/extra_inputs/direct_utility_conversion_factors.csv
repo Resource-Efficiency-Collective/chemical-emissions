@@ -1,0 +1,8 @@
+Source,CO2e_20a,CO2e_100a,CO2e_500a,Carbon dioxide,Carbon monoxide,Chloroform,Dinitrogen monoxide,Ethane,Methane,Nitric oxide,Nitrogen fluoride,Perfluoropentane,Sulfur hexafluoride,Other,CO2e_20a_sigma,CO2e_100a_sigma,CO2e_500a_sigma,Carbon dioxide_sigma,Carbon monoxide_sigma,Chloroform_sigma,Dinitrogen monoxide_sigma,Ethane_sigma,Methane_sigma,Nitric oxide_sigma,Nitrogen fluoride_sigma,Perfluoropentane_sigma,Sulfur hexafluoride_sigma,Other_sigma
+COOLING WATER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ELECTRICITY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PROCESS WATER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STEAM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INERT GAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NATURAL GAS,2.7,2.7,2.7,2.7,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0,0
+FUEL OIL,3.1,3.1,3.1,3.1,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0,0

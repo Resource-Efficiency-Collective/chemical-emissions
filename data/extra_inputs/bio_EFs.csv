@@ -1,0 +1,4 @@
+﻿Replacement,Source,generalComment,location,CO2e_20a,CO2e_100a,Carbon dioxide,Carbon monoxide,Chloroform,Dinitrogen monoxide,Ethane,Methane,Nitric oxide,Nitrogen fluoride,Perfluoropentane,Sulfur hexafluoride,Other,CO2e_20a_sigma,CO2e_100a_sigma,Carbon dioxide_sigma,Carbon monoxide_sigma,Chloroform_sigma,Dinitrogen monoxide_sigma,Ethane_sigma,Methane_sigma,Nitric oxide_sigma,Nitrogen fluoride_sigma,Perfluoropentane_sigma,Sulfur hexafluoride_sigma,Other_sigma
+bioethanol,"market for ethanol, without water, in 99.7% solution state, from fermentation",BIO,GLO,-1.91,-1.91,-1.91,0,0,0,0,0,0,0,0,0,0,0.191,0.191,0.191,0,0,0,0,0,0,0,0,0,0
+dry biomass,"market for wood chips, dry, measured as dry mass",BIO,GLO,-2.03,-2.03,-2.03,0,0,0,0,0,0,0,0,0,0,0.203,0.203,0.203,0,0,0,0,0,0,0,0,0,0
+dry biomass,glucose production,BIO,GLO,-2.03,-2.03,-2.03,0,0,0,0,0,0,0,0,0,0,0.203,0.203,0.203,0,0,0,0,0,0,0,0,0,0

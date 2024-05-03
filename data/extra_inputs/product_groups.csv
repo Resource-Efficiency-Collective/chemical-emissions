@@ -1,0 +1,109 @@
+﻿Column1,PRODUCT,Product group,Product type
+0,"1,4-BUTANEDIOL",Intermediates,Intermediates
+1,2-ETHYLHEXANOL,Intermediates,Intermediates
+2,ABS,Thermoplastics,Downstream
+3,ACETALDEHYDE,Intermediates,Intermediates
+4,ACETIC ACID,Intermediates,Intermediates
+5,ACETONE,Intermediates,Intermediates
+6,ACRYLIC ACID,Intermediates,Intermediates
+7,ACRYLIC ACID ESTERS,Intermediates,Intermediates
+8,ACRYLONITRILE,Intermediates,Intermediates
+9,ADIPIC ACID,Intermediates,Intermediates
+10,ADIPONITRILE,Intermediates,Intermediates
+11,ALKYLATION,,
+92,AMMONIA,Primary chemicals,Primary chemicals
+93,AMMONIUM NITRATE,N-fertilisers,Downstream
+94,AMMONIUM SULPHATE,N-fertilisers,Downstream
+12,ANILINE,Intermediates,Intermediates
+13,BENZENE,Primary chemicals,Primary chemicals
+14,BIODIESEL,,
+15,BIOGASOLINE,,
+16,BIONAPHTHA,,
+17,BISPHENOL A,Intermediates,Intermediates
+100,BTX,Primary chemicals,Primary chemicals
+18,BUTADIENE,Primary chemicals,Primary chemicals
+19,BUTYL ACETATE,"Solvents, additives & explosives",Downstream
+20,BUTYL RUBBER,"Thermosets, fibre & elastomers",Downstream
+95,CALCIUM AMMONIUM NITRATE,N-fertilisers,Downstream
+21,CAPROLACTAM,Intermediates,Intermediates
+22,CATALYTIC CRACKING,,
+23,CHLOROBENZENES,Intermediates,Intermediates
+24,COKING,,
+25,CUMENE,Intermediates,Intermediates
+26,CYCLOHEXANE,Intermediates,Intermediates
+27,CYCLOHEXANONE,Intermediates,Intermediates
+28,DMT,Other downstream,Downstream
+99,EDC,Intermediates,Intermediates
+29,EPICHLOROHYDRIN,Intermediates,Intermediates
+30,EPOXY RESINS,"Thermosets, fibre & elastomers",Downstream
+31,ETHANOLAMINES,Intermediates,Intermediates
+32,ETHYL ACETATE,Intermediates,Intermediates
+33,ETHYLBENZENE,Intermediates,Intermediates
+34,ETHYLENE,Primary chemicals,Primary chemicals
+35,ETHYLENE GLYCOLS,Intermediates,Intermediates
+36,ETHYLENE OXIDE,Intermediates,Intermediates
+37,EVA COPOLYMERS,Thermoplastics,Downstream
+38,EXPANDABLE PS,Thermoplastics,Downstream
+39,HDPE,Thermoplastics,Downstream
+40,HEAVY DISTILLATES DESULF,,
+41,HMDA,Intermediates,Intermediates
+42,ISOBUTANOL,"Solvents, additives & explosives",Downstream
+43,ISOMERIZATION-BUTANE,,
+44,ISOPROPANOL,"Solvents, additives & explosives",Downstream
+45,LDPE,Thermoplastics,Downstream
+46,LIGHT DISTILLATES DESULF,,
+47,LINEAR OLEFINS,Intermediates,Intermediates
+48,LLDPE,Thermoplastics,Downstream
+49,LUBE,"Solvents, additives & explosives",Downstream
+50,MALEIC ANHYDRIDE,Intermediates,Intermediates
+51,MDI,Intermediates,Intermediates
+52,MEK,"Solvents, additives & explosives",Downstream
+53,METHANOL,Primary chemicals,Primary chemicals
+54,METHYL METHACRYLATES,Intermediates,Intermediates
+55,MIDDLE DISTILLATES DESULF,,
+56,MIXED XYLENES,Primary chemicals,Primary chemicals
+57,MTBE,Intermediates,Intermediates
+58,N-BUTANOL,"Solvents, additives & explosives",Downstream
+59,NB COPOLYMERS,"Thermosets, fibre & elastomers",Downstream
+60,NITROBENZENES,Intermediates,Intermediates
+61,ORTHO-XYLENE,Primary chemicals,Primary chemicals
+62,PAM RESINS (6+66),Thermoplastics,Downstream
+63,PARA-XYLENE,Primary chemicals,Primary chemicals
+64,PET RESINS,Thermoplastics,Downstream
+65,PHENOL,Intermediates,Intermediates
+66,PHTHALIC ANHYDRIDE,Intermediates,Intermediates
+67,POLYAMIDE FIBRES,"Thermosets, fibre & elastomers",Downstream
+69,POLYBUTADIENE,"Thermosets, fibre & elastomers",Downstream
+70,POLYCARBONATES,Thermoplastics,Downstream
+71,POLYESTER FIBRES,"Thermosets, fibre & elastomers",Downstream
+72,POLYESTER FILM,Thermoplastics,Downstream
+73,POLYESTER POLYMER,Thermoplastics,Downstream
+74,POLYETHER POLYOLS,Intermediates,Intermediates
+75,POLYMERIZATION,,
+76,POLYMETHYL METHACRYLATE,Thermoplastics,Downstream
+77,POLYPROPYLENE,Thermoplastics,Downstream
+78,POLYSTYRENE,Thermoplastics,Downstream
+79,PROPYLENE,Primary chemicals,Primary chemicals
+80,PROPYLENE GLYCOLS,Intermediates,Intermediates
+81,PROPYLENE OXIDE,Intermediates,Intermediates
+82,PTA,Intermediates,Intermediates
+83,PVC,Thermoplastics,Downstream
+84,REFORMING,,
+97,SAN ,"Thermosets, fibre & elastomers",Downstream
+85,SB LATICES,"Thermosets, fibre & elastomers",Downstream
+86,SBR (Includes SBCs),"Thermosets, fibre & elastomers",Downstream
+87,STYRENE,Intermediates,Intermediates
+88,TDI,Intermediates,Intermediates
+89,TOLUENE,Primary chemicals,Primary chemicals
+96,UREA,N-fertilisers,Downstream
+90,VACUUM,,
+98,VCM,Intermediates,Intermediates
+91,VINYL ACETATE M.,"Thermosets, fibre & elastomers",Downstream
+,ACRYLIC FIBRES ,"Thermosets, fibre & elastomers",Downstream
+,ALKYLBENZENE,Intermediates,Intermediates
+,BUTYRALDEHYDE,Intermediates,Intermediates
+,EPDM,"Thermosets, fibre & elastomers",Downstream
+,GLYCOL ETHERS,"Solvents, additives & explosives",Downstream
+,POLYCHLOROPRENE,"Solvents, additives & explosives",Downstream
+,POLYISOPRENE,"Thermosets, fibre & elastomers",Downstream
+,UPE RESINS,"Thermosets, fibre & elastomers",Downstream
