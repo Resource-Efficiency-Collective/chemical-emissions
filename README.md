@@ -4,15 +4,14 @@ Repository for code relating to paper entitled "The rise and necessary fall: Gre
 Pipeline: data_extraction -> data_processing -> data_combination -> analysis
 
 Project structure:
-
-Data extraction
+- Data extraction\
 Code for extracting data from ICIS, IHS, EcoInvent and CarbonMinds.
 
-Data processing
+- Data processing\
 Code for transforming data into consistent units.
 
-Data combination
-Code for assembling data sources into facility level emissions
+- Data combination\
+Code for assembling data sources into facility level emissions\
 
-Analysis
-Code for generating outputs
+- Analysis\
+Code for generating outputs\
