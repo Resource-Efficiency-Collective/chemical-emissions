@@ -1,5 +1,5 @@
 # chemical-emissions
-Repository for code relating to paper entitled "The rise and necessary fall: Greenhouse gas emissions from global petrochemical production (1978-2050)" output from the [C-THRU](https://www.c-thru.org/) project.
+Repository for code relating to paper entitled "Greenhouse gas emissions from global petrochemical production" output from the [C-THRU](https://www.c-thru.org/) project.
 
 Pipeline: data_extraction -> data_processing -> data_combination -> analysis
 
