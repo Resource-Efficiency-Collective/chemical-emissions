@@ -72,7 +72,7 @@ pip install pandas numpy pyarrow jupyterlab matplotlib seaborn plotly
 1. Place the raw proprietary spreadsheets in a folder of your choice.
 2. Update the constants at the top of each `data_extraction/*` script.
 3. Execute the notebooks in the order shown in the **Workflow** section.
-4. Open the notebooks in `analysis/` to reproduce the figures.  Generated outputs are saved to `output/` (created automatically).
+4. Open the notebooks in `analysis/` to reproduce the figures.  Generated outputs are saved to `output/`.
 
 All notebooks are parameterised; you can pass alternative scenario parameters through the `analysis/scenarios/*` notebooks to explore decarbonisation pathways.
 
