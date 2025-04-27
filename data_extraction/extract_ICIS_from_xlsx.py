@@ -5,8 +5,9 @@ import os
 import numpy as np
 import pandas as pd
 
-filepath = "D:/data/ICIS_data/world_chemical/2050_update/"
-outpath = "D:/data/ICIS_data/world_chemical/2050_update/"
+## INSERT FILE PATHS HERE
+filepath = ""
+outpath = ""
 categories = ['Capacity', 'Statistic Production', 'Import', 'Export', 'Consumption']
 
 Capacity, Statistic_Production, Import, Export, Consumption = [pd.DataFrame() for i in range(5)]
