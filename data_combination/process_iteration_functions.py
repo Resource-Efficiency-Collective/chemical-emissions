@@ -1,5 +1,6 @@
 ## Functions used in process_iterations.ipynb file.
 
+import os
 import re
 import numpy as np
 import pandas as pd
@@ -276,7 +277,7 @@ def aggregate_facility_emissions(facility_emissions):
     return aggregated_emissions
 
 
-def calculate_facility_emissions(facility_conversion_orig, dbs=None, names=None, emission_val_cols=None):
+def calculate_facility_emissions(facility_conversion_orig, dbs=None, names=None, emission_val_cols=None, output_path='', current_group_name=''):
     if dbs is None:
         dbs = ['combined_', 'ihs_cradle-to-out-gate ', 'Feedstock ', 'Primary chemicals ', 'Intermediates ',
                'Indirect Utilities ', 'Direct Utilities ', 'Direct Process ', 'Electricity ', 'Thermoplastics ',
