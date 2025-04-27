@@ -1,0 +1,1537 @@
+Column1,PRODUCT,Product group,Product type
+223,(Cp)2ZrCl2,Intermediates,Intermediates
+220,(n-BuCp)2ZrCl2,Intermediates,Intermediates
+1446,[CP*2SMH]2,Intermediates,Intermediates
+323,1-CHLOROBUTANE,Intermediates,Intermediates
+731,1-DECENE,Intermediates,Intermediates
+730,1-DODECENE,Intermediates,Intermediates
+324,1-METHYLIMIDAZOLE,Intermediates,Intermediates
+184,1-OCTANOL,Intermediates,Intermediates
+802,"1,12-DODECANEDIOIC ACID",Intermediates,Intermediates
+456,"1,3-PROPANEDIOL",Intermediates,Intermediates
+391,"1,4-CYCLOHEXANEDIMETHANOL",Intermediates,Intermediates
+909,"1,4-HEXADIENE",Intermediates,Intermediates
+1004,2-ETHYLANTHRAQUINONE,Intermediates,Intermediates
+1341,2-MERCAPTOETHANOL,Intermediates,Intermediates
+494,2-PICOLINE,Intermediates,Intermediates
+1507,"2,2'-AZOBIS(2-AP-HCL)",Intermediates,Intermediates
+1370,"2,2'-DITHIOBISBENZOTHIAZOLE",Intermediates,Intermediates
+1455,"2,4-DIAMINOTOLUENE",Intermediates,Intermediates
+1325,"2,4-DIMETHYL BENZALDEHYDE",Intermediates,Intermediates
+1372,"2,5-DM-2,5-DI(TBP)HEXANE",Intermediates,Intermediates
+1377,"2,5-DM-2,5-DI(TBP)HEXENE",Intermediates,Intermediates
+235,"2,6-DI-T-BUTYL-P-CRESOL",Intermediates,Intermediates
+937,"2,6-DI-TERT-BUTYLPHENOL",Intermediates,Intermediates
+1426,"2,6-DICHLOROBENZONITRILE",Intermediates,Intermediates
+999,"2,6-DIETHYLANILINE",Intermediates,Intermediates
+1219,"2,6-DIMETHYLPHENOL",Intermediates,Intermediates
+1200,3-METHYL-1-BUTYN-3-OL,Intermediates,Intermediates
+1125,3-PICOLINE,Intermediates,Intermediates
+1180,4-CHLORO-4-HYDROXY-BENZOPHENONE,Intermediates,Intermediates
+1073,4-METHYLPENTENE-1,Intermediates,Intermediates
+1182,"4,4'-DICHLORODIPHENYL SULFONE",Intermediates,Intermediates
+1029,"4,4'-DIHYDROXYDIPHENYL",Intermediates,Intermediates
+925,"4,4'-METHYLENEDIANILINE",Intermediates,Intermediates
+1126,"4,4'-OXYDIANILINE",Intermediates,Intermediates
+1026,6-HYDROXY-2-NAPHTHOIC ACID,Intermediates,Intermediates
+1256,AA-EGDA COPOLYMER,Intermediates,Intermediates
+1384,ABS RESIN,Thermoplastics,Downstream
+104,ABSORBENTS,,
+598,ABSORBER OIL,,
+11,ACETIC ANHYDRIDE,Intermediates,Intermediates
+305,ACETONITRILE,Intermediates,Intermediates
+566,"ACETONITRILE, CRUDE",Intermediates,Intermediates
+851,ACETYLACETONE,Intermediates,Intermediates
+250,ACETYLCYCLOHEXYL SULFONYLPEROXIDE,Intermediates,Intermediates
+502,ACETYLENE,Intermediates,Intermediates
+1291,ACHN,,
+1338,ACID STABILIZER,,
+1386,ACRAWAX C,,
+1054,ACROLEIN,,
+1139,ACRYLAMIDE,Intermediates,Intermediates
+97,"ACRYLIC ACID, ESTER GRADE",Intermediates,Intermediates
+584,"ACRYLIC ACID, GLACIAL",Intermediates,Intermediates
+1387,ACRYLOID K-147,Intermediates,Intermediates
+81,ACTIVATED CARBON,,
+946,"ACTIVATED CARBON, SULFURIZED",,
+476,ACTIVATED CARBON.,,
+1268,ACTIVATED SLUDGE,,
+582,ADDITIVE,,
+440,"ADDITIVE, PHENOL",Intermediates,Intermediates
+322,ADDITIVES,,
+1342,ADMVN,,
+617,ADS-37 DESORBENT,,
+43,ADSORBENT,,
+1345,AEROSOL-MA(R),,
+540,AGR SOLVENT,,
+755,AIR,,
+570,ALAMINE 336,Intermediates,Intermediates
+1458,ALAMINE 336(R),Intermediates,Intermediates
+1011,ALCOHOL ETHOXYLATE,Intermediates,Intermediates
+1194,ALKYL ALUMINUM SILOXIDE,Intermediates,Intermediates
+1421,ALKYL TITANATE,Intermediates,Intermediates
+153,ALKYLBENZENE,Intermediates,Intermediates
+1231,ALLYL BROMIDE,Intermediates,Intermediates
+922,ALLYL CHLORIDE,Intermediates,Intermediates
+299,ALPHA AMYLASE,Intermediates,Intermediates
+518,ALPHA CHLORONAPHTHALENE,Intermediates,Intermediates
+741,ALPHA OLEFIN,Intermediates,Intermediates
+1230,ALPHA-METHYLSTYRENE,Intermediates,Intermediates
+355,ALUM,,
+473,ALUMINA,,
+459,ALUMINA TRIHYDRATE,,
+697,"ALUMINA, ACTIVATED",,
+1119,"ALUMINOSILICATE, CALCINED",,
+412,ALUMINUM ACTIVATOR,,
+6,ALUMINUM CHLORIDE,,
+939,ALUMINUM CHLORIDE (32BE),,
+841,ALUMINUM CHLOROHYDRATE,,
+410,ALUMINUM ETHYL SESQUICHLORIDE,,
+389,ALUMINUM HYDRATE,,
+262,ALUMINUM ISOPROPYLATE,,
+1284,ALUMINUM PELLETS,,
+707,ALUMINUM POWDER,,
+822,ALUMINUM SULFATE,,
+630,ALUMINUM TRIETHYL,,
+1019,ALUMINUM TRIETHYL.,,
+1189,ALUMINUM TRIMETHYL,,
+1359,ALUMINUM WIRE,,
+859,ALUMINUM-POTASSIUM SULFATE,,
+524,AMBERLITE(R) IRA-96,,
+626,AMBERLITE(R) LA-2,,
+520,AMBERLYST(R) A-21,,
+363,AMINE HARDENER,,
+1144,AMINE OIL,,
+1081,AMINOUNDECANOIC ACID,,
+1,AMMONIA (AQUEOUS),Primary chemicals,Primary chemicals
+58,AMMONIUM APFO,Intermediates,Intermediates
+364,AMMONIUM BICARBONATE,Intermediates,Intermediates
+418,AMMONIUM BIFLUORIDE,Intermediates,Intermediates
+1524,AMMONIUM BISULFATE WASTE,Intermediates,Intermediates
+1235,AMMONIUM CARBONATE,Intermediates,Intermediates
+669,AMMONIUM CHLORIDE,Intermediates,Intermediates
+780,AMMONIUM FLUOROBORATE,Intermediates,Intermediates
+445,AMMONIUM HEPTAMOLYBDATE,Intermediates,Intermediates
+657,AMMONIUM HYDROXIDE,Intermediates,Intermediates
+846,AMMONIUM METATUNGSTATE,Intermediates,Intermediates
+526,AMMONIUM MOLYBDENUM,Intermediates,Intermediates
+832,AMMONIUM NITRATE FERTILIZER,Intermediates,Intermediates
+59,AMMONIUM PERSULFATE,Intermediates,Intermediates
+842,AMMONIUM SULFATE,Intermediates,Intermediates
+218,AMMONIUM VANADATE,Intermediates,Intermediates
+573,ANION EXCHANGE RESIN,,
+342,ANISOLE,,
+543,"ANODE LEASE, MERCURY",,
+510,ANTIFOAM (CORN OIL),,
+1113,ANTIFOAM AGENT,,
+631,ANTIMONY CHLORIDE,,
+392,ANTIMONY TRIOXIDE,,
+514,ANTIOXIDANT,,
+1294,"ANTIOXIDANT, SBS",,
+827,"ANTIOXIDANT, TP",,
+1137,ANTIOXIDANT.,,
+1264,APFD SURFACTANT,,
+1232,APFO,,
+1277,ARGON,,
+1005,AROMATIC SOLVENT,Intermediates,Intermediates
+421,AS-990,,
+585,ASCORBIC ACID,Intermediates,Intermediates
+7,ASH DISPOSAL,,
+428,ATMOSPHERIC RESID FEED,,
+112,Au ON TITANIA-SILICA,,
+1505,AZOBIS AMIDINOPROPANE,,
+505,AZOBISISOBUTYRONITRILE,,
+128,BAGASSE,,
+930,BAPPB,,
+1289,BARIUM CARBONATE,Intermediates,Intermediates
+1286,BARIUM CHLORIDE,Intermediates,Intermediates
+1381,BARIUM-CADMIUM SOAP,,
+1117,BENZOIC ACID,Intermediates,Intermediates
+1014,BENZOTRICHLORIDE,Intermediates,Intermediates
+862,BENZOYL CHLORIDE,Intermediates,Intermediates
+1149,BENZOYL PEROXIDE,Intermediates,Intermediates
+924,BENZYLTRIETHYLAMMONIUM CHLORIDE,Intermediates,Intermediates
+1013,BETA-NAPHTHOL,,
+539,BFW TREATING CHEMICALS,,
+1469,BIOCIDE,,
+571,BIODIESEL,,
+310,BIOMASS FEEDSTOCK,,
+725,BIOMASS SYNGAS,,
+446,BISMUTH NITRATE,,
+874,"BISPHENOL A, EPOXY GRADE",Intermediates,Intermediates
+345,"BISPHENOL A, PC GRADE",Intermediates,Intermediates
+1382,BLACK PIGMENT,,
+1330,BLEACHED KRAFT PULP,,
+870,BLEACHING CHEMICALS,,
+843,"BOEHMITE, LARGE CRYSTALLINE",,
+833,"BOEHMITE, LOW SODIUM, FINE",,
+362,BOILER FEEDWATER,,
+221,BORATE-ACTIVATED SUPPORT,,
+694,BORIC ACID,Intermediates,Intermediates
+1161,BORON TRICHLORIDE,Intermediates,Intermediates
+745,BORON TRIFLUORIDE,Intermediates,Intermediates
+1298,BPEB,,
+708,BROMINE,,
+1378,BROMOBUTYL RUBBER,Intermediates,Intermediates
+1201,BROMONITROBENZENE,Intermediates,Intermediates
+1202,BTDA,Intermediates,Intermediates
+284,BTPP BICARBONATE,Intermediates,Intermediates
+490,BTX EXTRACTION RAFFINATE,Primary chemicals,Primary chemicals
+627,BUTADIENE RAFFINATE,Primary chemicals,Primary chemicals
+681,BUTANES.,Intermediates,Intermediates
+453,BUTENE-1,Intermediates,Intermediates
+1485,BUTENE-1 IN MIXED B-B,Intermediates,Intermediates
+599,BUTENES FEED,Intermediates,Intermediates
+1317,BUTYL BROMIDE,Intermediates,Intermediates
+795,BUTYL CHLORIDE,Intermediates,Intermediates
+716,BUTYLATED HYDROXYTOLUENE,Intermediates,Intermediates
+765,BUTYLENES (ALKY FEED),Intermediates,Intermediates
+85,BUTYROLACTONE,Intermediates,Intermediates
+512,C12-C14 ALCOHOL,Intermediates,Intermediates
+852,C15-C18 1-OLEFIN OXIDES,Intermediates,Intermediates
+259,C3 FEED,Primary chemicals,Primary chemicals
+1066,C3 STREAM,Primary chemicals,Primary chemicals
+987,C4 (SAT),Primary chemicals,Primary chemicals
+1525,C4 ALKYLATION FEED,Primary chemicals,Primary chemicals
+855,"C4 BY-PRODUCTS, MIXED",Primary chemicals,Primary chemicals
+672,C4 CRUDE,Primary chemicals,Primary chemicals
+212,C4 FEED,Primary chemicals,Primary chemicals
+80,"C4 FRACTION, MIXED FCC",Primary chemicals,Primary chemicals
+75,C4 FRACTION5,Primary chemicals,Primary chemicals
+978,C4 FRACTION8,Primary chemicals,Primary chemicals
+596,C4 RAFFINATE,Primary chemicals,Primary chemicals
+720,C4 RAFFINATE 2,Primary chemicals,Primary chemicals
+1483,"C4, NET CONSUMPTION",Primary chemicals,Primary chemicals
+670,C5 FRACTION,Primary chemicals,Primary chemicals
+260,"C5 OLEFIN FEED, FCC",Primary chemicals,Primary chemicals
+913,C5 PRODUCT,Primary chemicals,Primary chemicals
+464,C5+ REFORMATE,Primary chemicals,Primary chemicals
+1442,C6 REACTIVE OLEFINS,Primary chemicals,Primary chemicals
+882,C6-C8 FRACTIONS,Primary chemicals,Primary chemicals
+768,C9 AROMATICS,Primary chemicals,Primary chemicals
+1205,CALCIUM ACETATE,Intermediates,Intermediates
+557,CALCIUM CARBIDE,Intermediates,Intermediates
+185,CALCIUM CARBONATE,Intermediates,Intermediates
+498,CALCIUM CHLORIDE,Intermediates,Intermediates
+679,CALCIUM CYANAMIDE,Intermediates,Intermediates
+525,CALCIUM HYDROXIDE,Intermediates,Intermediates
+30,CALCIUM OXIDE,Intermediates,Intermediates
+1132,"CALCIUM PHOSPHATE, TRIBASIC",Intermediates,Intermediates
+717,CALCIUM STEARATE,Intermediates,Intermediates
+454,CALCIUM SULFATE DISPOSAL,Intermediates,Intermediates
+872,CAMELINA OIL,,
+775,CANOLA OIL,,
+1397,CAPROLACTONE,Intermediates,Intermediates
+887,CARBODIIMIDE,Intermediates,Intermediates
+1278,CARBON,,
+1084,CARBON BLACK (HAF),,
+303,CARBON BLACK OIL,,
+32,CARBON DIOXIDE,,
+652,CARBON DIOXIDE BY PRODUCT,,
+202,CARBON DIOXIDE.,,
+575,CARBON DISULFIDE,,
+135,CARBON MONOXIDE,,
+499,CARBON TETRACHLORIDE,,
+1123,CARBOXYLATED PE,,
+1438,CAROM SOLVENT,,
+1272,CASTOR OIL,,
+18,CATALYST,,
+2,CATALYST AND CHEMICALS,,
+940,"CATALYST, ACIDIC ION EXCHANGE",,
+332,"CATALYST, ACTIVATOR",,
+487,"CATALYST, AG",,
+352,"CATALYST, Al2O3",,
+1176,"CATALYST, Al2O3/SiO2",,
+549,"CATALYST, ALKALI METAL",,
+302,"CATALYST, ALKY",,
+1473,"CATALYST, ALPHOX",,
+1240,"CATALYST, AMINE",,
+1138,"CATALYST, BF3 ETHERATE",,
+947,"CATALYST, Bi-Mo",,
+1476,"CATALYST, BORSTAR",,
+607,"CATALYST, CATION",,
+602,"CATALYST, CLAUS",,
+770,"CATALYST, CLAY",,
+563,"CATALYST, CO-MO",,
+542,"CATALYST, Co-MoS2",,
+614,"CATALYST, CO-SALEN",,
+1263,"CATALYST, COLLOIDAL SiO2",,
+559,"CATALYST, CR-MO",,
+949,"CATALYST, Cu On Al2O3",,
+1170,"CATALYST, Cu On SiO2",,
+608,"CATALYST, Cu-Bi On SiO2",,
+441,"CATALYST, Cu-Cr",,
+1059,"CATALYST, Cu-Pd",,
+865,"CATALYST, Cu-Zn",,
+111,"CATALYST, Cu-ZnO",,
+527,"CATALYST, CuO-ZnO",,
+20,"CATALYST, DEHYDROGENATION",,
+781,"CATALYST, DMC",,
+1523,"CATALYST, DOWEX®",,
+935,"CATALYST, ETHANOL",,
+321,"CATALYST, FCC",,
+984,"CATALYST, FCC (EQUIL)",,
+985,"CATALYST, FCC (FRESH)",,
+227,"CATALYST, FE",,
+772,"CATALYST, FE-Mo",,
+188,"CATALYST, FT, AND CHEMICALS",,
+1347,"CATALYST, GA/ZEOLITE",,
+371,"CATALYST, HTS",,
+424,"CATALYST, HYDROCRACKING",,
+1434,"CATALYST, HYDRODEMETALLIZATION",,
+1435,"CATALYST, HYDRODESULFURIZATION",,
+724,"CATALYST, HYDROGEN PT",,
+136,"CATALYST, HYDROGENATION",,
+348,"CATALYST, HYDROTREATING",,
+386,"CATALYST, INCINERATION",,
+256,"CATALYST, ISOMERIZATION",,
+1443,"CATALYST, IX RESIN",,
+1448,"CATALYST, LAS",,
+1410,"CATALYST, LI3PO4 On SiO2",,
+1478,"CATALYST, LLDPE",,
+1398,"CATALYST, LUPEROX TBEC",,
+1057,"CATALYST, MA",,
+560,"CATALYST, MEROX",,
+165,"CATALYST, METALLOCENE",,
+603,"CATALYST, METHANATION",,
+656,"CATALYST, METHANOL SYNTHESIS",,
+1453,"CATALYST, METHYLALUMINOXANE (MAO)",,
+1166,"CATALYST, MISC., PB",,
+197,"CATALYST, Mo-Bi-Co-Cs-Ce",,
+1025,"CATALYST, Na-Si-W",,
+513,"CATALYST, Ni",,
+950,"CATALYST, Ni On Al2O3",,
+1487,"CATALYST, Ni On Al2O3/SiO2",,
+993,"CATALYST, Ni On SiO2",,
+124,"CATALYST, Ni-Na",,
+609,"CATALYST, Ni-Zr-Cu-Mo",,
+457,"CATALYST, ORGANOPHOSPHITE",,
+804,"CATALYST, OSO4",,
+21,"CATALYST, OXIDATION",,
+1425,"CATALYST, P-V",,
+276,"CATALYST, PC",,
+556,"CATALYST, Pd",,
+796,"CATALYST, Pd On Al2O3 (0.4%)",,
+1484,"CATALYST, Pd On Al2O3 (0.5%)",,
+975,"CATALYST, Pd On Al2O3 (3%)",,
+154,"CATALYST, Pd On C",,
+740,"CATALYST, Pd On C (1%)",,
+576,"CATALYST, Pd On C (5%)",,
+1067,"CATALYST, Pd SOLN",,
+756,"CATALYST, Pd-Cu On C",,
+1491,"CATALYST, Pd-MGO",,
+198,"CATALYST, Pd-PB Al2O3",,
+1457,"CATALYST, Pd-Pb-Mg On Al2O3",,
+1312,"CATALYST, Pd-Re",,
+1427,"CATALYST, Pd-Te",,
+169,"CATALYST, Pd-TiO2",,
+1320,"CATALYST, PdCl",,
+199,"CATALYST, PENTASIL ZEOLITE",,
+140,"CATALYST, PERPHRIN",,
+668,"CATALYST, PHOSPHORIC ACID",,
+618,"CATALYST, PLATINUM",,
+372,"CATALYST, PREREFORMING",,
+1020,"CATALYST, Pt On Al2O3",,
+1012,"CATALYST, Pt On C",,
+1001,"CATALYST, Pt-Rh",,
+311,"CATALYST, Pt-Rh/Ni",,
+1314,"CATALYST, RANEY-COBALT",,
+1475,"CATALYST, RANEY-COPPER",,
+349,"CATALYST, REFORMING",,
+663,"CATALYST, REFORMING-",,
+1303,"CATALYST, RESIN",,
+405,"CATALYST, Rh",,
+315,"CATALYST, Rh On C",,
+216,"CATALYST, Ru-Zn",,
+797,"CATALYST, RuO2/SILICA/TITANIA",,
+373,"CATALYST, SMR",,
+1474,"CATALYST, SPA",,
+160,"CATALYST, SUPERFLEX",,
+545,"CATALYST, T-AMINE",,
+263,"CATALYST, TERT-BUTYLAMINE BORANE",,
+141,"CATALYST, TITANIUM SILICATE",,
+790,"CATALYST, TYZOR TE CHELATE",,
+805,"CATALYST, V3O5",,
+503,"CATALYST, VANADIUM",,
+899,"CATALYST, VOCl3.",,
+821,"CATALYST, VPO",,
+217,"CATALYST, ZEM",,
+628,"CATALYST, ZEOLITE",,
+771,"CATALYST, ZEOLITE, CUMENE",,
+1331,"CATALYST, Zn-SO3 CURING",,
+465,"CATALYST, Zn-Zr",,
+558,"CATALYST, ZnO On Al2O3",,
+619,"CATALYST, ZSM-5 (MSTDP)",,
+1288,"CATALYST, ZSM-5 (MTDP)",,
+228,CATALYST.,,
+331,CATALYST(MAKEUP),,
+616,CATALYST/COCAT/MODIFIER,,
+550,CATALYST/TRIMER,,
+624,"CATALYSTS, CAT. DEHYDRATION",,
+264,CATECHOL,,
+151,CATION EXCHANGE RESIN,,
+8,CAUSTIC SODA (50%),,
+690,CAUSTIC SODA (73%),,
+257,CAUSTIC SODA BEADS,,
+495,CAUSTIC SODA FLAKES,,
+350,CAUSTIC SODA.(50%),,
+534,CELL LIQUOR,,
+24,CELLULASE,,
+648,CELLULOSE,,
+1285,CELLULOSE/COTTON LINTERS,,
+934,CERIC AMMONIUM NITRATE,Intermediates,Intermediates
+834,CERIUM NITRATE,Intermediates,Intermediates
+1069,CESIUM (CS2CO3),,
+447,CESIUM NITRATE,Intermediates,Intermediates
+253,CETYL ALCOHOL,,
+1209,CFC-11,,
+632,CFC-113,,
+976,CFC-114,,
+593,CHAIN TRANSFER AGENT,,
+861,CHAR,,
+1390,CHINA CLAY,,
+1097,CHLORAL,,
+148,CHLORINE,Intermediates,Intermediates
+605,CHLOROACETIC ACID,Intermediates,Intermediates
+1000,CHLOROACETYL CHLORIDE,Intermediates,Intermediates
+651,CHLOROBENZENE,Intermediates,Intermediates
+265,CHLOROFORM,Intermediates,Intermediates
+956,CHLOROSULFONATED PE,Intermediates,Intermediates
+1271,CHLOROSULFONIC ACID,Intermediates,Intermediates
+1531,CITRAL,,
+698,CITRIC ACID,Intermediates,Intermediates
+358,CLARIFIED WATER,,
+460,CLAY,,
+471,"CLAY, HIGH ACTIVITY",,
+396,"CLAY, MONTMORILLONITE",,
+894,"CLEANING AGENTS, MECH REC",,
+326,CO2 (SYNGAS),,
+532,COAGULANT,,
+378,COAL,,
+1053,COAL AT MINE,,
+367,COAL FOR STEAM,,
+366,COAL TRANSPORT,,
+715,COATING OIL,,
+213,COBALT ACETATE,Intermediates,Intermediates
+316,COBALT ACETATE.4H2O,Intermediates,Intermediates
+137,COBALT CARBONATE,Intermediates,Intermediates
+1039,COBALT CATALYST,,
+442,"COBALT CATALYST, SUPPORTED",,
+1488,COBALT HYDROXIDE,,
+191,COBALT NAPHTHENATE,,
+448,COBALT NITRATE,Intermediates,Intermediates
+192,COBALTOUS SULFATE,Intermediates,Intermediates
+1169,COCATALYST,,
+1024,COCONUT OIL,,
+1530,COFACTOR,,
+801,COKE OVEN GAS,,
+760,COKING GAS,,
+759,CONDENSATE,,
+568,CONSUMABLE ITEMS,,
+44,CONVERTER CATALYST,,
+867,COOKING OIL,,
+695,COPPER,,
+758,COPPER POWDER,,
+286,COPPER SULFATE,,
+1512,CORE MATERIAL,,
+294,CORN,,
+1513,CORN STARCH,,
+25,CORN STEEP LIQUOR (50%),,
+296,"CORN STEEP LIQUOR, SOLIDS",,
+26,CORN STOVER,,
+660,CORN SYRUP,,
+164,COST OF LNG FEED EXCLUDED,,
+1229,COTTONSEED MEAL,,
+1419,CP*TI(OME)3,Intermediates,Intermediates
+1185,Cr ON SILICA,,
+1154,CROSSLINKER,,
+1241,CROSSLINKING AGENT,,
+1409,CROWN ETHER,,
+601,CRUDE BUTADIENE,Primary chemicals,Primary chemicals
+762,CRUDE OIL,,
+777,CRUDE OIL (TAPIS),,
+1115,CRYSTAL MODIFIER,,
+1328,CRYSTAL RETARDANT,,
+236,CUMENE HYDROPEROXIDE,,
+46,CUPRIC ACETATE,Intermediates,Intermediates
+1220,CUPRIC BROMIDE,Intermediates,Intermediates
+1181,CUPRIC CHLORIDE,Intermediates,Intermediates
+219,CUPRIC NITRATE,Intermediates,Intermediates
+275,CUPROUS CHLORIDE,Intermediates,Intermediates
+1106,CUPROUS OXIDE,Intermediates,Intermediates
+1237,CYANAMIDE (50% SOLN),Intermediates,Intermediates
+1392,"CYCLE OIL/ST-RUN, LIGHT",,
+803,CYCLODODECATRIENE,Intermediates,Intermediates
+1203,CYCLOHEXANE AND OTHER,Intermediates,Intermediates
+515,CYCLOHEXANOL,Intermediates,Intermediates
+200,CYCLOHEXANONE OXIME,Intermediates,Intermediates
+1493,D-OCTYLGLUCAMINE,Intermediates,Intermediates
+1332,DABCO(R) 33LV,Intermediates,Intermediates
+793,DCPD (95%),Intermediates,Intermediates
+916,DD SUCCINIC ANHYDRIDE,Intermediates,Intermediates
+266,DECALIN,,
+1470,DEFORMER,,
+1257,DEHPC,,
+1061,DEHYDRATION CATALYST,,
+103,DEIONIZED WATER,,
+637,DEMINERALIZED WATER,,
+496,DESICCANT,,
+944,DESICCANT AND INHIBITORS,,
+1486,DESORBENT(HEXENE-HEXANE),,
+564,DESSICANT,,
+1208,DEXTROSE MONOHYDRATE,Intermediates,Intermediates
+237,"DEXTROSE, ANHYDRIDE",Intermediates,Intermediates
+878,DGEBA,,
+1221,DI-N-BUTYLAMINE,Intermediates,Intermediates
+1323,DI-N-PROPYLAMINE,Intermediates,Intermediates
+917,DI-T-BUTYL PEROXIDE,Intermediates,Intermediates
+1431,DIAMINOBUTANE,Intermediates,Intermediates
+27,DIAMMONIUM PHOSPHATE,Intermediates,Intermediates
+436,DIATOMACEOUS EARTH,,
+1399,DIBUTYL FUMARATE,Intermediates,Intermediates
+1035,DIBUTYL HEXAHYDROPHTHAL.,Intermediates,Intermediates
+854,DIBUTYL PHTHALATE,Intermediates,Intermediates
+1405,DIBUTYLTIN DILAURATE,Intermediates,Intermediates
+578,DIBUTYLTIN OXIDE,Intermediates,Intermediates
+1308,DICALITE 476,Intermediates,Intermediates
+1165,DICHLOROBENZIDINE.2HCL,Intermediates,Intermediates
+1441,DIDODECYL BENZENE,Intermediates,Intermediates
+38,DIESEL,,
+123,DIETHANOLAMINE,Intermediates,Intermediates
+1532,DIETHYL KETONE,Intermediates,Intermediates
+860,DIETHYL MALONATE,Intermediates,Intermediates
+155,DIETHYL OXALATE,Intermediates,Intermediates
+623,DIETHYL ZINC,Intermediates,Intermediates
+728,DIETHYLALUMINUM CHLORIDE,Intermediates,Intermediates
+734,DIETHYLBENZENE,Intermediates,Intermediates
+751,DIETHYLENE GLYCOL,Intermediates,Intermediates
+918,DIETHYLENETRIAMINE,Intermediates,Intermediates
+673,DIETHYLHYDROXYLAMINE,Intermediates,Intermediates
+1255,DIETHYLPYROCARBONATE,Intermediates,Intermediates
+1246,DIETHYLTOLUENE DIAMINE,Intermediates,Intermediates
+910,DIISOBUTYL ALUMINUM CHLORIDE,Intermediates,Intermediates
+665,DIISOBUTYLALUMINIUM HYDRIDE,Intermediates,Intermediates
+1089,DIISOBUTYLENE,Intermediates,Intermediates
+889,DIISOBUTYLPHTHALATE,Intermediates,Intermediates
+686,DIISONONYL PHTHALATE,Intermediates,Intermediates
+1468,DIISOPROPANOLAMINE,Intermediates,Intermediates
+1315,DIISOPROPENYL BENZENE,Intermediates,Intermediates
+1045,DIISOPROPYL BENZENEHYDROPEROXIDE,Intermediates,Intermediates
+173,DIISOPROPYL PEROXYDICARBONATE,Intermediates,Intermediates
+1046,DILAURYL THIODIPROPIONATE,Intermediates,Intermediates
+1050,DILUENT,,
+1090,DILUTION OIL,,
+86,DIMERIZATION CATALYST,,
+1063,DIMETHYL ACID PYROPHOSPHATE,Intermediates,Intermediates
+156,DIMETHYL CARBONATE,Intermediates,Intermediates
+714,DIMETHYL FURANOATE,Intermediates,Intermediates
+1416,DIMETHYL ISOPHTHALATE,Intermediates,Intermediates
+1519,DIMETHYL OXALATE,Intermediates,Intermediates
+763,DIMETHYL PHTHALATE,Intermediates,Intermediates
+1051,DIMETHYL SULFATE,Intermediates,Intermediates
+766,DIMETHYL SULFIDE,Intermediates,Intermediates
+287,DIMETHYL SULFOXIDE,Intermediates,Intermediates
+828,DIMETHYL TEREPHTHALATE,Other downstream,Downstream
+1127,DIMETHYLACETAMIDE,Intermediates,Intermediates
+125,DIMETHYLAMINE,Intermediates,Intermediates
+739,"DIMETHYLAMINE, ANHYDROUS",Intermediates,Intermediates
+1460,DIMETHYLAMINOBENZALDEHYDE,Intermediates,Intermediates
+1280,DIMETHYLDICHLOROSILANE,Intermediates,Intermediates
+1489,DIMETHYLDODECYLAMINE,Intermediates,Intermediates
+1302,DIMETHYLETHANOLAMINE,Intermediates,Intermediates
+335,DIMETHYLFORMAMIDE,Intermediates,Intermediates
+1373,DIMETHYLOL-P-OCTYLPHENOL,Intermediates,Intermediates
+157,DINITROTOLUENE,Intermediates,Intermediates
+1133,DIOCTYL PHTHALATE,Intermediates,Intermediates
+682,DIOXANE,Intermediates,Intermediates
+1183,DIOXOTHIOLAN,Intermediates,Intermediates
+347,DIPHENYL CARBONATE,Intermediates,Intermediates
+1171,DIPHENYL DECYLPHOSPHITE,Intermediates,Intermediates
+98,DIPHENYL ETHER,Intermediates,Intermediates
+1157,DIPHENYL ISOPHTHALATE,Intermediates,Intermediates
+1178,DIPHENYL SULFONE,Intermediates,Intermediates
+1158,DIPHENYL TEREPHTHALATE,Intermediates,Intermediates
+1033,DIPOTASSIUM PHOSPHATE,Intermediates,Intermediates
+902,DIPROPYLENE GLYCOL DIMETHYL ETHER,Intermediates,Intermediates
+903,DIPROPYLENE GLYCOL MONOMETHYL ETHER,Intermediates,Intermediates
+659,DISODIUM PHOSPHATE,Intermediates,Intermediates
+71,DIVINYLBENZENE (55%),Intermediates,Intermediates
+1391,"DM-2,6-NAPHTHALENE DICARBOXYLATE",Intermediates,Intermediates
+1052,DMPCT,Intermediates,Intermediates
+47,DNP PEROXIDICARBONATE,Intermediates,Intermediates
+1490,DODECYL EPOXIDE,Intermediates,Intermediates
+636,DODECYL SULFIDE,Intermediates,Intermediates
+932,DODECYL TRIMETHYL NH4CL,Intermediates,Intermediates
+1329,"DOLOMITE, OXIDE GRADE",Intermediates,Intermediates
+438,DONOR,,
+51,DPDC,,
+565,DRIER MOLE SIEVE,,
+1287,"DRUMS, MISC. MATERIALS",,
+1030,DSPEDP,,
+1413,DURENE,,
+1388,"ELASTOMER, POLYURETHANE",Intermediates,Intermediates
+788,ELECTRICITY-SOLAR,,
+789,ELECTRICITY-WIND,,
+500,ELECTRODES,,
+811,ELVAX 250(EVA COPOLYMER),,
+963,ELVAX 260(EVA COPOLYMER),,
+1526,ENI SLURRY CATALYST,,
+82,ENZYME BEADS,,
+55,ENZYMES,,
+919,EPDM RUBBER,Intermediates,Intermediates
+1134,EPOXIDIZED VEGETABLE OIL PLASTICIZER,,
+1333,EPOXY CURING AGENT,,
+1344,"EPOXY NOVOLAC RESIN, EPN","Thermosets, fibre & elastomers",Downstream
+359,EPOXY RESIN SIZING,"Thermosets, fibre & elastomers",Downstream
+923,"EPOXY, LIQUID, DGEBPA","Thermosets, fibre & elastomers",Downstream
+904,"EPS, DENSIFIED WASTE","Thermosets, fibre & elastomers",Downstream
+1422,ESTERIFICATION CATALYST,,
+991,ETBAP,,
+255,ETHANE,,
+687,ETHANE PROPANE FEED,,
+92,ETHANOL,,
+452,ETHANOL.,,
+1415,ETHYL ACID PHOSPHATE,Intermediates,Intermediates
+178,ETHYL ACRYLATE,Intermediates,Intermediates
+1456,ETHYL AL DICHLORIDE,Intermediates,Intermediates
+806,ETHYL AL DIIODINE,Intermediates,Intermediates
+1267,ETHYL BROMIDE,Intermediates,Intermediates
+1195,ETHYL BUTYL MAGNESIUM,Intermediates,Intermediates
+610,ETHYL ETHER,Intermediates,Intermediates
+1432,ETHYL HYDROQUINONE ETHER,Intermediates,Intermediates
+1152,ETHYL METHACRYLATE,Intermediates,Intermediates
+718,ETHYLALUMINUM CHLORIDE,Intermediates,Intermediates
+67,ETHYLENE CARBONATE,Intermediates,Intermediates
+327,ETHYLENE DICHLORIDE,Intermediates,Intermediates
+393,ETHYLENE GLYCOL,Intermediates,Intermediates
+957,ETHYLENE GLYCOL DIMETHACRYLATE,Intermediates,Intermediates
+1153,ETHYLENE GLYCOL ETHERS,Intermediates,Intermediates
+1479,ETHYLENE GLYCOL MONOBUTYL ETHER,Intermediates,Intermediates
+952,"ETHYLENE GLYCOL, CRUDE",Intermediates,Intermediates
+953,ETHYLENE OXIDE (AQUEOUS),Intermediates,Intermediates
+1120,ETHYLENE-VINYL ACETATE(15% VA),Intermediates,Intermediates
+1198,ETHYLENE/MMA IONOMER,Intermediates,Intermediates
+1348,ETHYLENE/VAC COPOLYMER,Intermediates,Intermediates
+1395,ETHYLENE/VOH COPOLYMER,Intermediates,Intermediates
+567,ETHYLENEDIAMINE,Intermediates,Intermediates
+1074,ETHYLENEDIAMINE TETRAACETIC ACID,Intermediates,Intermediates
+251,ETHYLHEXYL PEROXYDICARBONATE,Intermediates,Intermediates
+166,ETHYLIDENE NORBORNENE,Intermediates,Intermediates
+879,ETPP BICARBONATE,Intermediates,Intermediates
+283,ETPP OXALATE,Intermediates,Intermediates
+1508,ETPT,Intermediates,Intermediates
+1167,EXTENDER OIL,,
+1517,EXTRACTANT,,
+297,EXTRACTION SOLVENTS,"Solvents, additives & explosives",Downstream
+91,FATTY ACID SUBSTRATE,,
+1423,FATTY ACIDS,,
+966,"FATTY ACIDS, TALLOW",,
+1449,FATTY ALCOHOL (C12.8),,
+982,FCC LT. GASOLINE (C4-C6),,
+629,FCC OFF-GAS,,
+1351,FERMENTATION NUTRIENTS,,
+131,FERRIC CHLORIDE,Intermediates,Intermediates
+449,FERRIC NITRATE,Intermediates,Intermediates
+971,FERRIC SULFATE,Intermediates,Intermediates
+1146,FERROUS AMMONIUM SULFATE,Intermediates,Intermediates
+238,FERROUS SULFATE MONOHYDRATE,Intermediates,Intermediates
+1008,FIBER DRUMS,,
+1247,FIBERGLASS,,
+477,FILAMENT SEED RODS,,
+920,FILTER AID,,
+1043,"FILTER AID, PRECOAT",,
+1085,FINISH OIL,,
+551,FLAME RETARDANT,,
+417,FLUORIDED SILICA-ALUMINA,,
+1121,FLUORINATED ETHYLENE POLYMER,,
+60,FLUORINE,,
+403,FLUOROBORIC ACID,Intermediates,Intermediates
+1412,FLUOROSULFONIC ACID,Intermediates,Intermediates
+1002,"FLUORSPAR, ACID GRADE, DRY",Intermediates,Intermediates
+1334,FOMREZ(R) UL-1,Intermediates,Intermediates
+116,FORMALDEHYDE,Intermediates,Intermediates
+132,FORMALDEHYDE (37%),Intermediates,Intermediates
+1070,FORMALDEHYDE (44%),Intermediates,Intermediates
+383,FORMIC ACID,Intermediates,Intermediates
+430,FUEL OIL BURNED,,
+161,"FUEL OIL, LOW SULFUR",,
+1482,"FUEL, LIQUID",,
+1218,FUMARIC ACID,,
+1075,GAFAC RE-610,,
+807,GAS OIL HC HVY NAPHTHA,,
+425,"GAS OIL, ATMOSPHERIC",,
+1437,"GAS OIL, LIGHT",,
+87,"GAS OIL, VACUUM",,
+983,"GAS OIL, VACUUM (ARAB LT)",,
+1433,"GAS OIL, VACUUM (SYN)",,
+733,GAS SHRINKAGE,,
+1102,GASOLINE,,
+561,GASOLINE SHRINKAGE,,
+1027,GLASS FIBERS,,
+300,GLUCOAMYLASE,,
+83,GLUCOSE,,
+1450,GLUCOSE MONOHYDRATE,,
+773,GLUCOSE TRANSFER PRICE,,
+544,GLYCERIN,,
+375,"GLYCERIN, CRUDE",,
+931,GLYOXAL (40%),,
+674,GREEN PHOSPHORIC ACID,Intermediates,Intermediates
+1356,GRINDING BALLS,,
+533,GRIT DISPOSAL,,
+1439,GT-BTX SOLVENT,Intermediates,Intermediates
+28,GYPSUM DISPOSAL,,
+317,HAFNIUM ACETATE.4H2O,Intermediates,Intermediates
+1349,HCFC-142B,,
+1309,HCFC-22,,
+825,"HDPE BOTTLES, RECYCLED",Thermoplastics,Downstream
+895,HDPE SCRAP BALES,Thermoplastics,Downstream
+1101,HEART-CUT DISTILLATE,,
+748,HEAT TRANSFER FLUID,,
+343,HEAVY ENDS,,
+1091,HEPTANE SOLVENT,,
+376,HEPTANOIC ACID,Intermediates,Intermediates
+661,"HEPTENE, CRUDE",Intermediates,Intermediates
+144,HEXAFLUOROPROPYLENE,Intermediates,Intermediates
+700,HEXAMETHYLENEDIAMINE,Intermediates,Intermediates
+1461,HEXAMETHYLENEIMINE,Intermediates,Intermediates
+1107,HEXAMETHYLENETETRAMINE,Intermediates,Intermediates
+415,HEXENE-1,Intermediates,Intermediates
+1350,HFC-152A,,
+475,HFPO DIMER PEROXIDE,,
+996,HMBIS(EBA) PHOSPHATE,,
+577,HOT OIL,,
+377,HPA CATALYST,,
+325,HPF6,,
+318,HYDRAZINE (85%),Intermediates,Intermediates
+1408,HYDRAZINE HYDRATE,Intermediates,Intermediates
+319,HYDROBROMIC ACID (48%),Intermediates,Intermediates
+951,HYDROCARBON RESIN TACKIFIER,Intermediates,Intermediates
+72,HYDROCHLORIC ACID,Intermediates,Intermediates
+117,HYDROCHLORIC ACID (100%),Intermediates,Intermediates
+120,HYDROCHLORIC ACID (18 BE),Intermediates,Intermediates
+277,HYDROCHLORIC ACID (18%),Intermediates,Intermediates
+461,HYDROCHLORIC ACID (20 BE),Intermediates,Intermediates
+786,HYDROCHLORIC ACID (20%),Intermediates,Intermediates
+336,HYDROCHLORIC ACID (22 BE),Intermediates,Intermediates
+785,HYDROCHLORIC ACID (30%),Intermediates,Intermediates
+1110,"HYDROCHLORIC ACID, DILUTE",Intermediates,Intermediates
+988,HYDROFLUORIC ACID,Intermediates,Intermediates
+15,HYDROGEN,,
+662,HYDROGEN (95 VOL%),,
+209,HYDROGEN (97 VOL%),,
+96,HYDROGEN (99 VOL%),,
+990,HYDROGEN (LHV),,
+1258,HYDROGEN (OFF-GAS),,
+572,HYDROGEN BROMIDE,Intermediates,Intermediates
+329,HYDROGEN CHLORIDE,Intermediates,Intermediates
+569,HYDROGEN CHLORIDE',Intermediates,Intermediates
+195,HYDROGEN CYANIDE,Intermediates,Intermediates
+621,HYDROGEN FLUORIDE,Intermediates,Intermediates
+306,HYDROGEN PEROXIDE,Intermediates,Intermediates
+142,HYDROGEN PEROXIDE (50%),Intermediates,Intermediates
+19,HYDROGEN PEROXIDE (70%),Intermediates,Intermediates
+676,HYDROGEN SULFIDE,Intermediates,Intermediates
+1275,HYDROGEN VENDOR SERVICE CHARGE,,
+769,HYDROGEN-RICH GAS,,
+1276,"HYDROGEN, ELEC-GRADE LIQUID",,
+39,HYDROGEN.,,
+34,HYDROQUINONE,,
+506,HYDROQUINONE METHYL ETHER,Intermediates,Intermediates
+1147,HYDROXYETHYL METHACRYLATE,Intermediates,Intermediates
+1056,HYDROXYLAMMONIUM SULFATE,Intermediates,Intermediates
+246,HYDROXYPROPYL METHYLCELLULOSE,Intermediates,Intermediates
+1406,IEM,,
+979,IMMOBILIZED ENZYME,,
+99,INHIBITOR,,
+528,INHIBITORS,,
+357,"INHIBITORS, BIOCIDES, DISP.",,
+113,INITIATOR,,
+941,ION EXCH BALES CATALYST,,
+337,ION EXCHANGE RESIN,,
+1459,ION EXCHANGE RESIN-,,
+948,"ION-EXCH, THIOL GROUPS",Intermediates,Intermediates
+330,IONIC LIQUID,,
+1310,IONIC SURFACTANT,,
+1265,IPP INITIATOR,,
+779,IRGANOX(R) 1010,,
+413,IRON CATALYST COMPLEX,,
+1321,IRON FILINGS,,
+1305,IRON PYRITES,,
+1400,ISO-OCTYL THIOGLYCOLATE,,
+1156,"ISOAMYLENES, NET",,
+224,ISOBUTANE,Intermediates,Intermediates
+776,ISOBUTANOL,"Solvents, additives & explosives",Downstream
+942,ISOBUTYLENE (MTBE),Intermediates,Intermediates
+1444,ISOBUTYLENE IN FCC C5S,Intermediates,Intermediates
+9,"ISOBUTYLENE, HIGH PURITY",Intermediates,Intermediates
+247,ISOBUTYRYL PEROXIDE,Intermediates,Intermediates
+736,ISODECANOL,"Solvents, additives & explosives",Downstream
+1018,ISOMERIZATION CATALYST,,
+684,ISONONYL ALCOHOL,"Solvents, additives & explosives",Downstream
+384,ISOOCTENE,Intermediates,Intermediates
+486,ISOPAR E,,
+455,ISOPAR K(R),,
+416,ISOPENTANE,Intermediates,Intermediates
+886,ISOPHORONE,Intermediates,Intermediates
+752,ISOPHTHALIC ACID,Intermediates,Intermediates
+653,ISOPHTHALONITRILE,Intermediates,Intermediates
+863,ISOPHTHALOYL CHLORIDE,Intermediates,Intermediates
+646,ISOPRENE,Intermediates,Intermediates
+671,ISOPRENE (NET),Intermediates,Intermediates
+1420,ISOPRO(CP-FLU)ZRCL2,Intermediates,Intermediates
+281,ISOPROPANOL,"Solvents, additives & explosives",Downstream
+709,ISOPROPYL ACETATE,Intermediates,Intermediates
+967,ISOPROPYL CHLORIDE,Intermediates,Intermediates
+1009,ISOPROPYL ETHER,Intermediates,Intermediates
+1495,ISOPROPYL METHOXYACETATE,Intermediates,Intermediates
+1118,ISOPROPYLAMINE,Intermediates,Intermediates
+1346,ITACONIC ACID,Intermediates,Intermediates
+186,KEROSENE,,
+1430,KLP CATALYST,,
+1499,L-ASPARTIC ACID,Intermediates,Intermediates
+1500,L-PHENYLALANINE,Intermediates,Intermediates
+462,LA2O3 HYDRATE,Intermediates,Intermediates
+93,LACTIC ACID (88%),,
+1511,LACTOSE,,
+535,LANDFILLING,,
+835,LANTHANUM NITRATE,Intermediates,Intermediates
+174,LAUROYL PEROXIDE,Intermediates,Intermediates
+808,LEAD CARBONATE,,
+579,LEAD MONOXIDE,,
+1396,LECITHIN,,
+537,LIGAND AND OTHERS,,
+380,"LIGAND, PHOSPHITE",,
+397,"LIGHT OIL, CRUDE",,
+591,LIGNITE,,
+1337,"LIGNOSULFONATE, WSL",,
+1111,LIGROIN,,
+29,LIME,,
+1304,LIME (PHDL),,
+149,"LIME, HYDRATED",,
+466,LIMESTONE (94% CaCO3),,
+429,LIMONITE CATALYST,,
+1065,LINEAR ALKYLBENZENE,Intermediates,Intermediates
+1040,"LINEAR OLEFIN, C11-C12",Intermediates,Intermediates
+1496,LIPASE (LOW PURITY),,
+866,LIQUEFIED NATURAL GAS,,
+1367,"LIQUID CRYSTAL POLYMER, NEAT",,
+398,LIQUID NEUTRAL OIL,,
+933,LITHIUM CHLORIDE,,
+1077,LITHIUM PHOSPHATE,,
+678,LPG,,
+41,LUBE OIL FEEDSTOCK,,
+1462,LUBRICANT,,
+847,LUDOX LS,,
+1404,LUPEROX(TM) 575,,
+1103,M-AMINOPHENOL,Intermediates,Intermediates
+1098,M-CRESOL,Intermediates,Intermediates
+1204,M-DIBROMOBENZENE,Intermediates,Intermediates
+968,M-PHENOXYBENZALDEHYDE,Intermediates,Intermediates
+1179,M-PHENYLENEDIAMINE,Intermediates,Intermediates
+1322,M-TOLUIDINE,Intermediates,Intermediates
+1104,M-TOLYL ISOCYANATE,Intermediates,Intermediates
+1023,M-XYLENE,Primary chemicals,Primary chemicals
+746,M-XYLENE (NET),Primary chemicals,Primary chemicals
+829,MAGNESIUM ACETATE.4H2O,Intermediates,Intermediates
+288,MAGNESIUM CHLORIDE,Intermediates,Intermediates
+891,"MAGNESIUM CHLORIDE, ANHYDROUS",Intermediates,Intermediates
+926,MAGNESIUM NITRATE,Intermediates,Intermediates
+474,MAGNESIUM OXIDE,Intermediates,Intermediates
+374,MAGNESIUM SILICATE,Intermediates,Intermediates
+844,MAGNESIUM SULFATE.7H2O,Intermediates,Intermediates
+883,MAIN COLUMN BOTTOMS,,
+472,MAKE-UP SOLVENT,,
+1313,MALEIC ACID,Intermediates,Intermediates
+1445,"MANGANESE ACETATE,4H2O",Intermediates,Intermediates
+320,MANGANESE ACETATE.4H2O,Intermediates,Intermediates
+1326,MANGANESE BROMIDE.4H2O,Intermediates,Intermediates
+1036,MANGANOUS SULFATE,Intermediates,Intermediates
+1318,MANNICH BASE,,
+856,"MAO, MODIFIED",,
+1007,MBA-RICH STREAM,,
+88,MDEA (MAKEUP AND REGEN.),,
+1527,MDEA REGENERATION,,
+1210,MDI AND PMPPI,Intermediates,Intermediates
+1248,MDI PREPOLYMER,Intermediates,Intermediates
+726,MEDIA,,
+732,MEHQ,,
+649,MELAMINE,Intermediates,Intermediates
+1417,MERPOL(R) A,Intermediates,Intermediates
+938,MESITYLENE,Intermediates,Intermediates
+422,METALLOCENE,Intermediates,Intermediates
+1501,METATHESIS CATALYST,Intermediates,Intermediates
+491,METHACRYLIC ACID,Intermediates,Intermediates
+267,METHALLYL CHLORIDE,Intermediates,Intermediates
+639,METHANE,,
+654,METHANE.,,
+1214,METHANESULFONYL CHLORIDE,Intermediates,Intermediates
+1389,"METHANOL, CRUDE",Primary chemicals,Primary chemicals
+927,METHOXYETHANOL,Intermediates,Intermediates
+73,METHYL ACRYLATE,Intermediates,Intermediates
+1428,METHYL BENZOATE,Intermediates,Intermediates
+225,METHYL BORONIC ACID,Intermediates,Intermediates
+1343,METHYL CELLULOSE,Intermediates,Intermediates
+647,METHYL CHLORIDE,Intermediates,Intermediates
+633,METHYL CHLOROFORM,Intermediates,Intermediates
+1105,METHYL CHLOROFORMATE,Intermediates,Intermediates
+504,METHYL ESTER,Intermediates,Intermediates
+285,METHYL ETHYL KETONE,Intermediates,Intermediates
+196,METHYL FORMATE,Intermediates,Intermediates
+1068,METHYL HYDROQUINONE,Intermediates,Intermediates
+1254,METHYL HYDROQUINONE ETHER,Intermediates,Intermediates
+175,METHYL HYDROXYPROPYL CELLULOSE,Intermediates,Intermediates
+1355,METHYL ISOBUTYL CARBINOL,Intermediates,Intermediates
+271,METHYL ISOBUTYL KETONE,Intermediates,Intermediates
+268,METHYL ISOCYANATE,Intermediates,Intermediates
+1447,METHYL LAURATE,Intermediates,Intermediates
+1055,METHYL MERCAPTAN,Intermediates,Intermediates
+179,METHYL METHACRYLATE,Intermediates,Intermediates
+1533,METHYL PROPENYL ETHER,Intermediates,Intermediates
+778,METHYL PROPYL KETONE,Intermediates,Intermediates
+78,METHYL T-BUTYL ETHER,Intermediates,Intermediates
+701,METHYL-DIETHANOLAMINE,Intermediates,Intermediates
+423,METHYLALUMINOXANE,Intermediates,Intermediates
+1064,METHYLAMINE,Intermediates,Intermediates
+905,METHYLCYCLOHEXANE,Intermediates,Intermediates
+272,METHYLENE CHLORIDE,Intermediates,Intermediates
+876,METHYLENE DIPHENYLENE ISOCYANATE,Intermediates,Intermediates
+1534,METHYLSULFONIC ACID,Intermediates,Intermediates
+1477,MGBU2,Intermediates,Intermediates
+521,MGO/KOH,,
+727,MICROBES,,
+232,MINERAL OIL,,
+0,MISC CHEMICALS,Intermediates,Intermediates
+1188,"MISC. CHEMICALS, LDPE",Thermoplastics,Downstream
+1295,"MISC. CHEMICALS, SBR",Intermediates,Intermediates
+693,MIXED BUTENES FEED,Intermediates,Intermediates
+278,MN(ACAC)2,Intermediates,Intermediates
+304,MOLASSES,,
+162,MOLECULAR SIEVES,,
+749,MOLTEN SALT,,
+885,MOLTEN SULFUR,,
+522,MOLYBDENUM POWDER,,
+312,MOLYBDENUM TRIOXIDE,,
+658,MONOAMMONIUM PHOSPHATE,Intermediates,Intermediates
+333,MONOETHANOLAMINE,Intermediates,Intermediates
+1062,MTBE RAFFINATE (SCK C4S),Intermediates,Intermediates
+880,MTBP BICARBONATE,Intermediates,Intermediates
+16,N-BUTANE,,
+100,N-BUTANOL,"Solvents, additives & explosives",Downstream
+3,N-BUTYL ACETATE,Intermediates,Intermediates
+74,N-BUTYL ACRYLATE,Intermediates,Intermediates
+482,N-BUTYL ETHER,Intermediates,Intermediates
+1238,N-BUTYL ISOCYANATE,Intermediates,Intermediates
+1518,N-BUTYLAMINE,Intermediates,Intermediates
+1266,N-BUTYLENES (SCK C4S),Intermediates,Intermediates
+77,N-BUTYLLITHIUM,Intermediates,Intermediates
+538,N-BUTYRALDEHYDE,Intermediates,Intermediates
+313,N-CYCLOHEXYL-2-PYRROLIDONE,Intermediates,Intermediates
+761,N-DECANE,,
+432,N-DODECANOL,"Solvents, additives & explosives",Downstream
+1076,N-DODECYL MERCAPTAN,Intermediates,Intermediates
+1244,N-ETHYL MORPHOLINE,Intermediates,Intermediates
+692,N-HEPTANE,,
+90,N-HEXANE,,
+76,N-METHYL-2-PYRROLIDONE,Intermediates,Intermediates
+688,N-OCTANE,,
+744,N-PARAFFINS,,
+552,N-PENTANE,,
+48,N-PROPANOL,"Solvents, additives & explosives",Downstream
+390,N-PROPYL ACETATE,Intermediates,Intermediates
+597,N-VALERALDEHYDE,Intermediates,Intermediates
+279,N(BU)4BR,Intermediates,Intermediates
+1503,NANOCLAY,,
+426,NAPHTHA,,
+489,"NAPHTHA, HEAVY",,
+163,"NAPHTHA, LIGHT",,
+488,NAPHTHA.,,
+1116,NAPHTHALENE,Intermediates,Intermediates
+399,NAPHTHALENE OIL,Intermediates,Intermediates
+529,NAPHTHENIC ACID,Intermediates,Intermediates
+33,NATURAL GAS,,
+702,NATURAL GAS (HIGH CO2),,
+129,NATURAL GAS.,,
+1374,"NBR, AMINE-TERM.",,
+167,NCA ACTIVATOR,,
+836,NEODYMIUM NITRATE,Intermediates,Intermediates
+666,NEODYMIUM VERSATATE,Intermediates,Intermediates
+1339,NEOPENTYL GLYCOL,Intermediates,Intermediates
+1516,NGL (86% ETHANE RECOVERED),,
+994,Ni ALKYLBENZENE SULFONATE,Intermediates,Intermediates
+1335,NIAX(R) A-1,,
+450,NICKEL NITRATE HEXAHYDRATE,Intermediates,Intermediates
+203,NICKEL POWDER,,
+289,"NICKEL, RANEY",,
+388,NITRIC ACID (60%),Intermediates,Intermediates
+61,NITRIC ACID (CONC),Intermediates,Intermediates
+62,NITRIC ACID (DILUTE),Intermediates,Intermediates
+170,NITRIC OXIDE,,
+1375,NITRILE RUBBER,Intermediates,Intermediates
+12,NITROBENZENE,Intermediates,Intermediates
+66,NITROGEN,,
+419,NITROGEN FOR CATALYST,,
+767,NITROGEN TETROXIDE,,
+1079,NONENE(PROPYLENE TRIMER),Intermediates,Intermediates
+640,NONENES,Intermediates,Intermediates
+1242,NONIONIC SURFACTANT,,
+1454,NORBORNENE,Intermediates,Intermediates
+1199,NPG DIBENZOATE,,
+84,NUTRIENTS,,
+511,NUTRIENTS (CELLULASE),,
+433,NUTRIENTS (CORN STEEP LIQUOR),,
+774,NUTRIENTS (L-LYSINE),,
+56,NUTRIENTS (PHBV FROM WASTE),,
+583,NUTRIENTS (PHBV),,
+298,NUTRIENTS AND CHEMICALS,,
+816,NYLON 6 AB RESIN,Intermediates,Intermediates
+1087,NYLON 6 CHIPS,Intermediates,Intermediates
+1088,NYLON 66 CHIPS,Intermediates,Intermediates
+1082,"NYLON SALT (63% SOLN, SOLIDS BASIS)",Intermediates,Intermediates
+1083,"NYLON SALT, SOLID",Intermediates,Intermediates
+211,"NYLON, WASTE",Thermoplastics,Downstream
+928,O-CRESOL,"Solvents, additives & explosives",Downstream
+133,O-DICHLOROBENZENE,Intermediates,Intermediates
+290,O-NITROCHLOROBENZENE,Intermediates,Intermediates
+1239,O-PHENYLENEDIAMINE,Intermediates,Intermediates
+1160,O-PHENYLPHENOL,Intermediates,Intermediates
+387,O-XYLENE,Primary chemicals,Primary chemicals
+562,OCTANE PENALTY,,
+959,OCTANOIC ACID,Intermediates,Intermediates
+414,OCTENE-1,Intermediates,Intermediates
+1022,OCTENES,Intermediates,Intermediates
+667,OCTYL BROMIDE,Intermediates,Intermediates
+1151,OCTYL MERCAPTAN,Intermediates,Intermediates
+1502,ODTM AMMONIUM CHLORIDE,Intermediates,Intermediates
+431,OLEFLEX CATALYST,,
+641,OLEIC ACID,Intermediates,Intermediates
+1003,OLEUM (20%),Intermediates,Intermediates
+1270,OLEUM (30%),Intermediates,Intermediates
+193,OLEUM (32%),Intermediates,Intermediates
+258,OLEUM (33.3%),Intermediates,Intermediates
+114,OLEUM (40%),Intermediates,Intermediates
+664,OLEUM (65%),Intermediates,Intermediates
+183,OLEUM (7%),Intermediates,Intermediates
+980,OLIGOMER CATALYST,Intermediates,Intermediates
+57,ORGANIC WASTE,,
+229,OTHER CHEMICALS (PS),Intermediates,Intermediates
+523,OXALIC ACID,Intermediates,Intermediates
+365,OXIDIZED PAN,,
+385,OXIDIZED PITCH FIBER,,
+1252,OXIDIZED STARCH,,
+22,OXYGEN,,
+17,OXYGEN (95 MOLE %),,
+210,OXYGEN (HIGH USAGE),,
+735,OXYGEN (LOW USAGE),,
+194,OXYGEN (MODERATE USAGE),,
+625,P-CHLOROBENZOIC ACID,Intermediates,Intermediates
+1324,P-CHLOROBENZOTRIFLUORIDE,Intermediates,Intermediates
+1112,P-CHLORONITROBENZENE,Intermediates,Intermediates
+622,P-CHLOROTOLUENE,Intermediates,Intermediates
+1058,P-CRESOL,Intermediates,Intermediates
+484,P-DICHLOROBENZENE,Intermediates,Intermediates
+1162,P-ETHYL PHENOL,Intermediates,Intermediates
+1028,P-HYDROXYBENZOIC ACID,Intermediates,Intermediates
+1072,P-NITROPHENOL,Intermediates,Intermediates
+180,P-NONYLPHENOL,Intermediates,Intermediates
+1186,P-PHENYLENEDIAMINE,Intermediates,Intermediates
+273,P-T-BUTYLPHENOL,Intermediates,Intermediates
+531,P-TERT-BUTYL CATECHOL INHIBITOR,Intermediates,Intermediates
+101,P-TOLUENESULFONIC ACID,Intermediates,Intermediates
+189,P-XYLENE,Primary chemicals,Primary chemicals
+747,P-XYLENE (NET),Primary chemicals,Primary chemicals
+1440,P-XYLENE PURIFICATION,Primary chemicals,Primary chemicals
+49,PACKAGING MATERIALS,Thermoplastics,Downstream
+555,PALLADIUM ACETATE,Intermediates,Intermediates
+712,PALM FATTY ACID DISTILLATE,,
+868,PALM OIL,,
+1168,PALMITIC ACID,Intermediates,Intermediates
+634,PARAFFIN WAX,,
+611,PARAFORMALDEHYDE,Intermediates,Intermediates
+68,PB CATALYST,,
+1172,PBT PELLETS (IV=0.85),Thermoplastics,Downstream
+1129,PBT POWDER,Thermoplastics,Downstream
+1509,Pd ON CARBON CATALYST,,
+107,Pd ON STEATITE,,
+1143,PE BAGS,,
+443,PE CATALYST,,
+906,PE/PA MULTI-LAYER FILM BALES,Thermoplastics,Downstream
+1047,PEGDMA,,
+1093,PELARGONIC ACID,Intermediates,Intermediates
+1016,PENTAERYTHRITOL,"Solvents, additives & explosives",Downstream
+1506,PENTAERYTHRITOL TA ETHER,Intermediates,Intermediates
+1520,PENTAFLUOROPROPANOL,"Solvents, additives & explosives",Downstream
+1299,PENTAMETHYLDIETHYLENETRIAMINE,Intermediates,Intermediates
+580,PENTANOL,"Solvents, additives & explosives",Downstream
+1010,PERCHLORIC ACID,Intermediates,Intermediates
+469,PERCHLOROETHYLENE,Intermediates,Intermediates
+1522,PERFLUORO(PROPYLVINYL ETHER),Intermediates,Intermediates
+63,PERFLUORODIOXOLE,Intermediates,Intermediates
+1311,PERFLUOROPOLYETHER,,
+594,PEROXIDE INITIATORS,,
+1187,PEROXIDES AND PERESTERS,,
+798,PET BALES,Thermoplastics,Downstream
+826,"PET BOTTLES, RECYCLED",Thermoplastics,Downstream
+1429,PET FILM WASTE,Thermoplastics,Downstream
+799,"PET FLAKES, RECYCLED",Thermoplastics,Downstream
+1197,PET PELLETS (IV=0.6),Thermoplastics,Downstream
+754,PET POLYMER MELT,Thermoplastics,Downstream
+819,PET RESIN,Thermoplastics,Downstream
+897,PET SCRAP BALES,Thermoplastics,Downstream
+1403,"PET, SCRAP",Thermoplastics,Downstream
+643,PETROLEUM COKE,,
+1122,PFA RESIN,,
+102,PHENOTHIAZINE,Intermediates,Intermediates
+1281,PHENYLMETHYLSILOXANE,Intermediates,Intermediates
+338,PHOSGENE,Intermediates,Intermediates
+308,PHOSPHATE,,
+1211,PHOSPHATE FIRE RETARDANT,,
+1528,PHOSPHATE NUTRIENT,,
+1114,"PHOSPHATE ROCK, 66% BPL",,
+1041,PHOSPHINE LIGAND,,
+1383,PHOSPHITE CHELATOR,,
+1465,PHOSPHITE STABILIZER,,
+1306,"PHOSPHOGYPSUM, HYDRATED",,
+1290,PHOSPHORIC ACID (58% P2O5),Intermediates,Intermediates
+105,PHOSPHORIC ACID (85%),Intermediates,Intermediates
+696,PHOSPHORIC ACID (AS P2O5),Intermediates,Intermediates
+753,PHOSPHORIC ACID (WET),Intermediates,Intermediates
+677,PHOSPHORUS,,
+10,PHOSPHORUS OXYCHLORIDE,Intermediates,Intermediates
+1163,PHOSPHORUS PENTACHLORIDE,Intermediates,Intermediates
+764,PHOSPHORUS PENTASULFIDE,Intermediates,Intermediates
+204,PHOSPHORUS TRICHLORIDE,Intermediates,Intermediates
+783,PHTHALIC ACID,Intermediates,Intermediates
+1174,PHTHALOYL CHLORIDE,Intermediates,Intermediates
+921,PIB SUCCINIC ANHYDRIDE,Intermediates,Intermediates
+497,PICRIC ACID,Intermediates,Intermediates
+703,PIPERAZINE,Intermediates,Intermediates
+368,PITCH,,
+1360,"PL FILM, PET, BIAX ORIENTED",Thermoplastics,Downstream
+1361,"PL FILM, PP, BIAX ORIENTED",Thermoplastics,Downstream
+853,PLASTIC FEEDSTOCK,Thermoplastics,Downstream
+791,"PLASTIC, RECYCLED",Thermoplastics,Downstream
+314,PLATINUM On SILICA CAT.,,
+1362,PLEXAR(R) RESIN,,
+907,PMMA FEED RECYCLED,Thermoplastics,Downstream
+1140,POE LAURYLETHER,Intermediates,Intermediates
+888,"POLY-1,4-BUTANEDIOL ADIPATE",Intermediates,Intermediates
+118,POLY(STYR-DVB) (4% DVB),Thermoplastics,Downstream
+115,POLY(STYR-DVB) (8% DVB),Thermoplastics,Downstream
+119,POLY(STYR-DVB) (8% DVB)MP,Thermoplastics,Downstream
+1227,POLY(VINYL PYRROLIDONE),Intermediates,Intermediates
+1130,POLYACRYLATE LATEX,Intermediates,Intermediates
+360,POLYACRYLONITRILE,Intermediates,Intermediates
+1092,POLYALKYLBENZENE,Intermediates,Intermediates
+1366,POLYARYLATE,Intermediates,Intermediates
+233,POLYBUTADIENE,"Thermosets, fibre & elastomers",Downstream
+1463,POLYCAPROLACTONE,Intermediates,Intermediates
+1124,POLYCARBONATE,Thermoplastics,Downstream
+356,POLYELECTROLITE,Intermediates,Intermediates
+553,POLYESTER POLYOL,Thermoplastics,Downstream
+877,POLYETHER GLYCOL I,Intermediates,Intermediates
+546,POLYETHER TRIOL,Intermediates,Intermediates
+1365,POLYETHERETHERKETONE,Intermediates,Intermediates
+1364,POLYETHERIMIDE,Intermediates,Intermediates
+1368,POLYETHERSULFONE,Intermediates,Intermediates
+1358,"POLYETHYLENE 2,6-NAPHTHALATE",Intermediates,Intermediates
+784,POLYETHYLENE GLYCOL,Intermediates,Intermediates
+586,POLYETHYLENE GLYCOL DIACRYLATE,Intermediates,Intermediates
+1086,POLYETHYLENE OXIDE,Intermediates,Intermediates
+812,"POLYETHYLENE, HD",Thermoplastics,Downstream
+1184,"POLYETHYLENE, HD POWDERED",Thermoplastics,Downstream
+813,"POLYETHYLENE, LD",Thermoplastics,Downstream
+814,"POLYETHYLENE, LLD",Thermoplastics,Downstream
+1411,POLYFLUOROSULFONIC ACID,Intermediates,Intermediates
+1206,POLYISOBUTENE,Intermediates,Intermediates
+554,POLYMERIC MDI,Intermediates,Intermediates
+230,POLYMERIZATION INHIBITOR,Intermediates,Intermediates
+1212,"POLYOL, POLYESTER",Intermediates,Intermediates
+1243,"POLYOL, POLYETHER",Intermediates,Intermediates
+782,"POLYOL, POLYETHER (707 DA)",Intermediates,Intermediates
+1245,"POLYOL, TRIFUNC POLYETHER",Intermediates,Intermediates
+1407,"POLYOL, TRIFUNC POLYETHER.",Intermediates,Intermediates
+406,POLYOXYALKYLENE TRIOL,Intermediates,Intermediates
+1249,POLYOXYPROPYLENE CYCLOHEXANONE DIIMIDE,Intermediates,Intermediates
+1250,POLYOXYPROPYLENE DIAMINE,Intermediates,Intermediates
+1224,POLYPHENYLENE OXIDE,Intermediates,Intermediates
+1369,"POLYPHENYLENE SULFIDE, NEAT",Intermediates,Intermediates
+810,POLYPROPYLENE,Thermoplastics,Downstream
+900,POLYPROPYLENE GLYCOL,Intermediates,Intermediates
+1379,POLYPROPYLENE IMPACT COPOLYMER,Thermoplastics,Downstream
+1504,"POLYPROPYLENE, MALEATED",Thermoplastics,Downstream
+1225,"POLYSTYRENE, HI",Thermoplastics,Downstream
+830,POLYTETRAMETHYLENE ETHER GLYCOL,Intermediates,Intermediates
+871,POLYTETRAMETHYLENE GLYCOL,Intermediates,Intermediates
+248,POLYVINYL ALCOHOL,Intermediates,Intermediates
+820,POLYVINYL CHLORIDE,Thermoplastics,Downstream
+818,POLYVINYLIDENE CHLORIDE,Thermoplastics,Downstream
+989,POTASH FLAKES,,
+334,POTASSIUM,,
+339,POTASSIUM ACETATE,Intermediates,Intermediates
+508,POTASSIUM BICARBONATE,Intermediates,Intermediates
+1159,POTASSIUM BOROHYDRIDE,Intermediates,Intermediates
+644,POTASSIUM CARBONATE,Intermediates,Intermediates
+848,POTASSIUM CHLORIDE,Intermediates,Intermediates
+64,POTASSIUM HYDROXIDE,Intermediates,Intermediates
+809,POTASSIUM IODIDE,Intermediates,Intermediates
+239,POTASSIUM OLEATE,Intermediates,Intermediates
+960,POTASSIUM PERMANGANATE,Intermediates,Intermediates
+240,POTASSIUM PERSULFATE,Intermediates,Intermediates
+241,"POTASSIUM PHOSPHATE, DB",Intermediates,Intermediates
+242,POTASSIUM ROSINATE,Intermediates,Intermediates
+214,POTASSIUM SULFATE,Intermediates,Intermediates
+992,POTASSIUM TETRABORATE,Intermediates,Intermediates
+1145,POWDERED LIMESTONE,,
+444,PP CATALYST,,
+896,PP SCRAP BALES,Thermoplastics,Downstream
+845,PRECIPITATED SILICA,,
+1380,PROCESS OIL PLASTICIZER,,
+138,PROMOTER (IMIDAZOLE),,
+23,PROPANE,,
+1071,PROPIONIC ACID,Intermediates,Intermediates
+794,PROPIONITRILE,Intermediates,Intermediates
+1177,PROPYLENE GLYCOL,Intermediates,Intermediates
+824,PROPYLENE TETRAMER,Intermediates,Intermediates
+35,"PROPYLENE, CHEM GRADE",Primary chemicals,Primary chemicals
+106,"PROPYLENE, POLYMER GRADE",Primary chemicals,Primary chemicals
+738,"PROPYLENE, REFINERY GRADE",Primary chemicals,Primary chemicals
+592,PROTECTIVE COLLOID,,
+121,"PS BEADS, GT (4% DVB) CM",Thermoplastics,Downstream
+126,"PS BEADS, MP, GT (8% DVB) CM",Thermoplastics,Downstream
+1327,PSEUDOCUMENE,Thermoplastics,Downstream
+1269,PSEUDOCUMENE (CONTAINED),Thermoplastics,Downstream
+757,PURIFIED SYNGAS,,
+215,PYRIDINE,Thermoplastics,Downstream
+792,PYROLYSIS GASOLINE,,
+721,PYROLYSIS GASOLINE HEART CUT,,
+1095,PYROMELLITIC ACID,Thermoplastics,Downstream
+1128,PYROMELLITIC DIANHYDRIDE,Thermoplastics,Downstream
+1336,QUASI-PREPOLYMER,Thermoplastics,Downstream
+969,QUAT. AMMONIUM BROMIDE,Thermoplastics,Downstream
+1109,QUAT. AMMONIUM CHLORIDE,Thermoplastics,Downstream
+581,QUENCH & ABSORBER OILS,,
+1497,RACEMIC AMINE,,
+1494,RACEMIC NAPROXEN,,
+869,RAPESEED OIL,,
+837,"RAW KAOLIN, SMALL PARTICLE",,
+130,RAW NATURAL GAS,,
+981,REDOX CATALYST,,
+945,REFINERY GAS,,
+1273,REFORMATE HEART CUT,,
+45,REFORMER CATALYST,,
+901,REGULATOR,,
+1216,"RELEASE AGENT, COVER FILM",,
+1436,RESID (ARAB HV),,
+986,RESID (ARAB LT),,
+427,"RESID, VACUUM",,
+705,RESIDUAL OIL (3% S),,
+234,RESIDUE GAS,,
+1100,RESIN FEEDSTOCK,Intermediates,Intermediates
+1015,RESORCINOL,,
+1352,RICE GRAIN,,
+501,ROCK SALT,,
+467,"ROYALTY, ORE TAX",,
+1467,S-(BENZOTHIAZOL-2-YL),Intermediates,Intermediates
+1042,SABS 913,,
+589,SALT,,
+470,SATURATION CATALYST,,
+604,SCOT CATALYST & CHEM,,
+815,SCRAP FILM,Thermoplastics,Downstream
+689,SCRUBBING OIL,,
+437,SEAWEED,,
+1319,SEBACIC ACID,Intermediates,Intermediates
+606,SEC-BUTYL ETHER,Intermediates,Intermediates
+699,SEC-BUTYLLITHIUM,Intermediates,Intermediates
+379,SHIFT CATALYST,,
+479,SILANE,,
+588,SILANE ED,,
+1279,SILICA (-400 MESH),,
+451,SILICA (AS 40% AQ. SUSP),,
+420,SILICA ALUMINA,,
+353,SILICA GEL,,
+892,"SILICA, FUMED",,
+838,"SILICA, QUARTZ SAND",,
+1190,"SILICA, UNDEHYDRATED",,
+1274,SILICON TETRACHLORIDE,Intermediates,Intermediates
+480,SILICON-MET GRADE,Intermediates,Intermediates
+547,SILICONE SURFACTANT,Intermediates,Intermediates
+1192,SILOXALANE,Intermediates,Intermediates
+541,SLAG DISPOSAL,,
+481,SLAGGING ADDITIVE GETTERING,,
+1296,SOAP,,
+998,SODA LIME,,
+152,SODIUM,,
+4,SODIUM ACETATE,Intermediates,Intermediates
+839,"SODIUM ALUMINATE (AQ, 38%)",Intermediates,Intermediates
+849,SODIUM ALUMINATE SOLID,Intermediates,Intermediates
+1498,SODIUM AMIDE,Intermediates,Intermediates
+291,SODIUM BICARBONATE,Intermediates,Intermediates
+205,SODIUM BISULFITE,Intermediates,Intermediates
+1173,SODIUM BOROHYDRIDE,Intermediates,Intermediates
+1141,SODIUM BROMATE,Intermediates,Intermediates
+108,SODIUM BROMIDE,Intermediates,Intermediates
+190,SODIUM CARBONATE,Intermediates,Intermediates
+1514,SODIUM CASEINATE,Intermediates,Intermediates
+254,SODIUM CETYL SULFATE,Intermediates,Intermediates
+590,SODIUM CHLORATE,Intermediates,Intermediates
+787,SODIUM CHLORIDE,Intermediates,Intermediates
+361,SODIUM CHLORITE,Intermediates,Intermediates
+970,SODIUM CYANIDE,Intermediates,Intermediates
+972,SODIUM DICHROMATE,Intermediates,Intermediates
+875,SODIUM DIHYDROPHOSPHATE,Intermediates,Intermediates
+1253,SODIUM DODECYL BENZENE SULFONATE,Intermediates,Intermediates
+509,SODIUM EDTA,Intermediates,Intermediates
+977,SODIUM FLUORIDE DISPOSAL,Intermediates,Intermediates
+1048,SODIUM FORM SULFOXYLATE,Intermediates,Intermediates
+1521,SODIUM HYDRIDE,Intermediates,Intermediates
+1226,SODIUM HYDROSULFIDE,Intermediates,Intermediates
+269,SODIUM HYDROSULFITE,Intermediates,Intermediates
+507,SODIUM HYDROXIDE (USP),Intermediates,Intermediates
+145,SODIUM HYPOCHLORITE (15%),Intermediates,Intermediates
+1393,SODIUM HYPOPHOSPHITE,Intermediates,Intermediates
+1060,SODIUM IODIDE,Intermediates,Intermediates
+181,SODIUM LAURYL SULFATE,Intermediates,Intermediates
+1259,SODIUM LAURYLBENZENESULFONAT,Intermediates,Intermediates
+1261,SODIUM LAURYLOXYETHYLSULFATE,Intermediates,Intermediates
+1037,SODIUM LIGNOSULFONATE,Intermediates,Intermediates
+182,SODIUM METABISULFITE,Intermediates,Intermediates
+519,SODIUM METAL,,
+407,SODIUM METHOXIDE,Intermediates,Intermediates
+94,SODIUM METHYLATE,Intermediates,Intermediates
+245,SODIUM METHYLATE (25%),Intermediates,Intermediates
+615,SODIUM NITRATE,Intermediates,Intermediates
+292,SODIUM NITRITE,Intermediates,Intermediates
+328,SODIUM OCTYLSULFATE,Intermediates,Intermediates
+1049,SODIUM OLEATE,Intermediates,Intermediates
+587,SODIUM PEROXODISULFATE,Intermediates,Intermediates
+280,SODIUM PHENOLATE,Intermediates,Intermediates
+1451,SODIUM PHOSPHATE,Intermediates,Intermediates
+1260,"SODIUM PHOSPHATE, MONOBASIC",Intermediates,Intermediates
+243,SODIUM PYROPHOSPHATE,Intermediates,Intermediates
+463,SODIUM SILICATE (41.6 BE),,
+1354,SODIUM SILICATE SOLUTION,,
+840,"SODIUM SILICATE, 2.0 (AQ, 38%)",,
+492,SODIUM STEARATE,Intermediates,Intermediates
+973,SODIUM SULFATE,Intermediates,Intermediates
+485,"SODIUM SULFIDE, FLAKE",Intermediates,Intermediates
+206,SODIUM SULFITE,Intermediates,Intermediates
+817,SODIUM SULFITE.7H2O,Intermediates,Intermediates
+997,SODIUM TETRABORATE,Intermediates,Intermediates
+1262,SODIUM TETRADECYL SULFONATE,Intermediates,Intermediates
+146,SODIUM THIOCYANATE,Intermediates,Intermediates
+595,SOLVENT,"Solvents, additives & explosives",Downstream
+1099,SOLVENTS AND CATALYSTS,"Solvents, additives & explosives",Downstream
+40,SORBENT,,
+493,SORBITAN MONOLAURATE,,
+1142,SORBITAN MONOOLEATE,,
+1464,"SORBITOL, ETHOXYLATED",,
+1515,SOYBEAN MEAL,,
+1034,"SOYBEAN MEAL, HYDROLYZED",,
+95,SOYBEAN OIL,,
+402,"SOYBEAN OIL, CRUDE",,
+404,"SOYBEAN OIL, EPOXIDIZED",,
+89,SOYBEANS,,
+974,SPENT SULFITE LIQUOR,,
+369,SPIN LUBRICANT,,
+600,SPONGE OIL,,
+857,"STABILIZER, PB",,
+1394,"STABILIZER, PPA",,
+1297,"STABILIZER, SBR",,
+516,STABILIZER.,,
+638,STABILIZERS,,
+1376,STANNOUS CHLORIDE,Intermediates,Intermediates
+408,STANNOUS OCTOATE,Intermediates,Intermediates
+1466,STANNOUS OXIDE,Intermediates,Intermediates
+823,STARCH,,
+1215,STARCH ACETATE,Intermediates,Intermediates
+742,STEARIC ACID,Intermediates,Intermediates
+1017,STEARYL ALCOHOL,,
+729,STEEL MILL GAS,,
+69,STSPP,,
+1300,STYRENE-BUTADIENE RUBBER,Intermediates,Intermediates
+650,SUBBITUMINOUS COAL,,
+1233,SUCCINIC ACID,Intermediates,Intermediates
+340,SUCROSE,,
+936,SUGAR BEETS,,
+309,SUGARCANE,,
+704,SULFOLANE,,
+1452,SULFONATED SM-DVB RESIN,,
+354,SULFUR,,
+435,SULFUR DIOXIDE,,
+1307,SULFUR DIOXIDE.,,
+655,SULFUR MONOCHLORIDE,,
+722,SULFUR TRIOXIDE,,
+13,SULFURIC ACID,Intermediates,Intermediates
+109,SULFURIC ACID (70%),Intermediates,Intermediates
+351,SULFURIC ACID (98%),Intermediates,Intermediates
+1044,"SULFURIC ACID, DILUTE",Intermediates,Intermediates
+261,"SULFURIC ACID, REGENERATED",Intermediates,Intermediates
+964,SUPER STA-TAC-100 (TACK),,
+965,SUPER STA-TAC-80 (TACK),,
+14,SURFACTANT,,
+1363,SURLYN(R) RESIN,,
+307,SWITCHGRASS,,
+382,SYNTHESIS GAS (1:1),,
+37,SYNTHESIS GAS (1.02:1),,
+70,SYNTHESIS GAS (1.1:1),,
+642,SYNTHESIS GAS (1.3:1),,
+1021,SYNTHESIS GAS (1.5:1),,
+884,SYNTHESIS GAS (1.7:1),,
+711,SYNTHESIS GAS (1.8 TO 1),,
+79,SYNTHESIS GAS (1.83:1),,
+409,SYNTHESIS GAS (2:1),,
+139,SYNTHESIS GAS (2.2:1),,
+710,SYNTHESIS GAS (3 TO 1),,
+400,SYNTHESIS GAS (3:1),,
+31,SYNTHESIS GAS (3.4:1),,
+143,T-BUTANOL,,
+958,"T-BUTANOL, GASOLINE GRADE",,
+231,T-BUTYL CATECHOL,Intermediates,Intermediates
+1148,T-BUTYL HYDROPEROXIDE,Intermediates,Intermediates
+1228,T-BUTYL PERBENZOATE,Intermediates,Intermediates
+1402,T-BUTYL PEROCTOATE,Intermediates,Intermediates
+244,T-DODECYL MERCAPTAN,Intermediates,Intermediates
+1150,T-HEXADECYL MERCAPTAN,Intermediates,Intermediates
+249,T-HEXYLPEROXY DIGLYCOLATE,Intermediates,Intermediates
+914,TAIL OIL,,
+1031,TALC (HIGH PURITY),,
+961,"TALL OIL, CRUDE",,
+873,"TALLOW, HYDROGENATED",,
+962,"TALLOW, INEDIBLE, BLEACHABLE",,
+401,"TAR ACID OIL, CRUDE",,
+395,"TAR, DEWATERED",,
+1401,TBPD CHAIN TRANSFER AGENT,,
+439,TEAL,,
+675,TECH GRADE ACID,Intermediates,Intermediates
+394,TEREPHTHALIC ACID,Intermediates,Intermediates
+864,TEREPHTHALOYL CHLORIDE,Intermediates,Intermediates
+1234,TERPENE,,
+1078,TERPHENYL,Intermediates,Intermediates
+1292,TERPINOLENE,Intermediates,Intermediates
+685,TETRA ISONONYL TITANATE,Intermediates,Intermediates
+881,TETRABROMO BPA,Intermediates,Intermediates
+831,TETRABUTYL TITANATE,Intermediates,Intermediates
+929,TETRABUTYLAMMONIUM BROMIDE,Intermediates,Intermediates
+274,TETRABUTYLAMMONIUM HYDROXIDE,Intermediates,Intermediates
+1282,TETRABUTYLPHOSPHONIUM HYDROXIDE,Intermediates,Intermediates
+201,TETRADECENE,Intermediates,Intermediates
+890,TETRAETHOXYSILANE,Intermediates,Intermediates
+458,TETRAETHYL TITANATE,Intermediates,Intermediates
+995,TETRAETHYLAMMONIUM HYDROXIDE,Intermediates,Intermediates
+850,TETRAETHYLAMMONIUM HYDROXIDE (AQ 37%),Intermediates,Intermediates
+1207,TETRAETHYLENEPENTAMINE,Intermediates,Intermediates
+719,TETRAFLUOROETHANE,Intermediates,Intermediates
+65,TETRAFLUOROETHYLENE,Intermediates,Intermediates
+612,TETRAHYDROFURAN,Intermediates,Intermediates
+683,TETRAISOPROPYL TITANATE,Intermediates,Intermediates
+1371,TETRAMETHYL THIURAM DISULFIDE,Intermediates,Intermediates
+635,TETRAMETHYLAMMONIUM CHLORIDE,Intermediates,Intermediates
+1080,TETRAMETHYLENEDIAMINE,Intermediates,Intermediates
+171,TETRAPHENOXYTITANIUM,Intermediates,Intermediates
+346,TETRAPHENYLPHOSPHONIUM CHLORIDE,Intermediates,Intermediates
+1471,TETRASODIUM EDTA,Intermediates,Intermediates
+1424,TFM SULFONIC ACID,Intermediates,Intermediates
+370,THERMINOL(R) MAKEUP,,
+723,THIONYL CHLORIDE,Intermediates,Intermediates
+1510,Ti/SiO2 CATALYST,,
+222,TIBA (IN 1 M TOLUENE),,
+1480,TITANIUM COMPLEX,,
+1032,TITANIUM DIOXIDE (RUTILE),Intermediates,Intermediates
+645,TITANIUM TETRACHLORIDE,Intermediates,Intermediates
+893,TITANIUM TRICHLORIDE,Intermediates,Intermediates
+548,TOLUENE DIISOCYANATE,Intermediates,Intermediates
+344,"TOLUENEDIAMINE, CRUDE",Intermediates,Intermediates
+147,TOMAC,,
+1385,"TPU, POLYESTER PCPLT",,
+613,"TRANS-1,2-DIAMINOCYCLOHEXANE",Intermediates,Intermediates
+737,TRANSALKYLATION FEED,Intermediates,Intermediates
+517,TRI-N-BUTYLAMINE,Intermediates,Intermediates
+207,TRI-O-TOLYLPHOSPHITE,Intermediates,Intermediates
+1213,TRIAZINE CATALYST,Intermediates,Intermediates
+1096,TRIBUTYL PHOSPHATE,Intermediates,Intermediates
+743,TRIBUTYLPHOSPHINE,Intermediates,Intermediates
+187,TRICAPRYLYLAMINE,Intermediates,Intermediates
+1236,TRICHLOROETHYLENE,Intermediates,Intermediates
+478,TRICHLOROSILANE,Intermediates,Intermediates
+1135,TRICRESYL PHOSPHATE,Intermediates,Intermediates
+1222,TRIDECYL PHOSPHITE,Intermediates,Intermediates
+434,TRIDECYLAMINE,Intermediates,Intermediates
+5,TRIETHYL PHOSPHATE,Intermediates,Intermediates
+270,TRIETHYLAMINE,Intermediates,Intermediates
+1006,TRIETHYLHEXYL PHOSPHATE,Intermediates,Intermediates
+134,TRIFLUOROACETIC ACID,Intermediates,Intermediates
+750,TRIGLYME,,
+168,TRIISOBUTYLALUMINUM,Intermediates,Intermediates
+1418,TRIMELLITIC ACID,Intermediates,Intermediates
+341,TRIMETHYL ORTHOACETATE,Intermediates,Intermediates
+282,TRIMETHYLACETIC ACID,Intermediates,Intermediates
+226,TRIMETHYLALUMINUM,,
+122,TRIMETHYLAMINE,,
+1283,TRIMETHYLCHLOROSILANE,,
+1535,TRIMETHYLHYDROQUINONE,,
+1217,TRIMETHYLOLPROPANE,,
+1164,TRIPHENYL PHOSPHATE,,
+1196,TRIPHENYL PHOSPHITE,,
+1193,TRIPHENYL SILANOL,,
+208,TRIPHENYLBORANE,,
+1175,TRIPHENYLETHYL-PHOSPHONIUM BROMIDE,,
+530,TRIPHENYLMETHANE,,
+36,TRIPHENYLPHOSPHINE,Intermediates,Intermediates
+1293,TRIS(NONYLPHENOL) PHOSPHITE,,
+1472,TRISODIUM HEDTA,,
+858,TRISPERFLUOROPHENYLBORANE,,
+1155,TRITON(R) X-100,,
+1301,TRITYL CHLORIDE,Intermediates,Intermediates
+468,TRONA,,
+483,TRONA SOLUTION,,
+110,TS1 CATALYST,,
+172,TTPPC,,
+706,UREA-FORMALDEHYDE 85,N-fertilisers,Downstream
+691,"UREA, INDUSTRIAL GRADE",N-fertilisers,Downstream
+1136,UV STABILIZER,,
+943,V-Sb-W CATALYST,,
+1414,V3O5 CATALYST,,
+252,VA-CA COPOLYMER,Intermediates,Intermediates
+1094,VALERIC ACID,Intermediates,Intermediates
+908,VANADIUM TAA,,
+911,VANADIUM TETRACHLORIDE,Intermediates,Intermediates
+898,VANADIUM TRICHLORIDE,Intermediates,Intermediates
+1131,VDC EMULSION COPOLYMER,Intermediates,Intermediates
+53,VEGETABLE OIL,,
+713,VERDEZYNE ENZYMES,,
+50,VINYL ACETATE,"Thermosets, fibre & elastomers",Downstream
+176,VINYL CHLORIDE,Intermediates,Intermediates
+177,VINYLIDENE CHLORIDE,Intermediates,Intermediates
+52,VINYLIDENE FLUORIDE,Intermediates,Intermediates
+301,VITAMIN B12,,
+680,WASTE DISPOSAL,,
+915,WASTE FEEDSTOCK,,
+381,WASTEWATER TREATMENT,,
+1223,"WAX, SYNTHETIC",,
+150,WHEAT STRAW,,
+42,"WHITE OIL, TECHNICAL GRADE",,
+912,WOOD CHIPS,,
+1108,WOOD FLOUR FILLER,,
+955,WRAPPING FILM,Thermoplastics,Downstream
+293,"XYLENES, MIXED",Primary chemicals,Primary chemicals
+1481,"XYLENES, MSTDP",Primary chemicals,Primary chemicals
+620,"XYLENES, REFORMATE",Primary chemicals,Primary chemicals
+1353,"XYLENES, TDP",Primary chemicals,Primary chemicals
+295,YEAST,,
+1529,YEAST EXTRACT,,
+536,ZEOLITE,,
+127,ZEOLITE CATALYST,,
+800,ZINC ACETATE DIHYDRATE,Intermediates,Intermediates
+158,ZINC ACETATE DIHYDRIDE,Intermediates,Intermediates
+1316,ZINC CHLORIDE,Intermediates,Intermediates
+1340,ZINC FORMALDEHYDE SULFOXYL,Intermediates,Intermediates
+954,ZINC FORMATE,Intermediates,Intermediates
+159,ZINC NAPHTHENATE,Intermediates,Intermediates
+574,ZINC OXIDE,Intermediates,Intermediates
+1492,ZINC POWDER,,
+1251,ZINC STEARATE,Intermediates,Intermediates
+1038,ZINC SULFATE,Intermediates,Intermediates
+1357,ZIRCON,,
+411,ZIRCONIUM CATALYST,,
+1191,ZIRCONOCENE,,
+54,ZNO ON ALUMINA,,
